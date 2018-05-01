@@ -1,0 +1,91 @@
+---
+title: 'Study2: Microarray'
+output: 
+  html_document:
+    fig_caption: yes
+    fig_retina: 2
+    theme: readable
+    toc: yes
+---
+
+* R functions
+
+```{r}
+#load("Study2.RData")
+#source("../../SpMix.R")
+```
+
+* Data 
+
+```{r}
+dat <- read.csv("Study2.csv")
+summary(dat)
+p.values <- cbind(1 - pf(dat$t1^2, df1 = 1, df2 = 6.9845593),
+                  1 - pf(dat$t2^2, df1 = 1, df2 = 8.9091669),
+                  1 - pf(dat$t3^2, df1 = 1, df2 = 17.8825493))
+z <- qnorm(1 - p.values)
+
+par(mfrow = c(3, 3))
+hist(p.values[,1], nclass = 100, prob = TRUE)
+hist(p.values[,2], nclass = 100, prob = TRUE)
+plot(p.values)
+hist(z[,1], nclass = 100, prob = TRUE)
+hist(z[,2], nclass = 100, prob = TRUE)
+plot(z)
+hist(p.values[,3], nclass = 100, prob = TRUE)
+hist(z[,3], nclass = 100, prob = TRUE)
+```
+
+* Efron's method: univariate only
+
+```{r}
+library(locfdr)
+par(mfrow = c(1, 3))
+efron1 <- locfdr(z[,1])
+efron2 <- locfdr(z[,2])
+efron3 <- locfdr(z[,3])
+```
+
+* Semiparametric mixture: univariate
+
+```{r cache = TRUE}
+Res.1D.1 <- sp.mix.1D(z[,1], thre.localFDR = 0.05)
+Res.1D.2 <- sp.mix.1D(z[,2], thre.localFDR = 0.05)
+Res.1D.3 <- sp.mix.1D(z[,3], thre.localFDR = 0.05)
+```
+
+* Semiparametric mixture: 2d
+    - To monotonize localFDR estimates
+    $$
+    {\rm NE}({\mathbf z}_0) 
+    = \{{\mathbf z}\,|\, {\mathbf z} \ge {\mathbf z}_0\}
+    $$
+    $$
+    {\rm fdr}_{\rm mono}({\mathbf z}) 
+    = \max\left\{{\rm fdr}({\mathbf z}_i)\,|\,{\mathbf z}_i\in {\rm NE}({\mathbf z})\right\}
+    $$
+    
+```{r cache = TRUE}
+Res.2D <- sp.mix.multi(z[,1:2], max.iter = 5)
+Res.2D$p.0
+Res.2D$mu.0
+Res.2D$tau.0
+out <- cbind(z, Res.2D$f1.hat, Res.2D$f, Res.2D$localfdr)
+write.csv(out, file = "output.csv", row.names = FALSE)
+
+save.image("Study2.RData")
+```
+
+```{r}
+library(ggplot2)
+ggplot() +
+  geom_point(mapping = aes(x = z[,1], y = z[,2]),
+             color = 1+1*(Res.2D$localfdr <= .05), alpha = 0.5)
+library(scatterplot3d)
+scatterplot3d(z[,1], z[,2], Res.2D$localfdr, 
+              xlab = expression(z[1]), 
+              ylab = expression(z[2]), 
+              zlab = "Local FDR estimates",
+              color = (1 + 1*(Res.2D$localfdr <= .05)),
+              pch = ".")
+```
