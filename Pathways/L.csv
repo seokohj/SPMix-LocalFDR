@@ -1,0 +1,537 @@
+Gene Set,Ratio of Protein In Gene Set,Number of Protein in Gene Set,Protein From Network,P-value,FDR,Nodes
+Neutrophil degranulation(R),0.0362,393,25,3.14E-13,1.69E-10,"SLC11A1,SLPI,RAB5C,S100A12,DEFA4,VNN1,TCN1,LCN2,TNFAIP6,PYGL,HK3,CAMP,SERPINB1,ARG1,NFAM1,MMP9,CKAP4,CEACAM8,LTF,TLR2,CD59,MAPK14,LRG1,QPCT,PTX3"
+Antimicrobial peptides(R),0.004,44,6,7.69E-06,2.06E-03,"SLC11A1,DEFA4,LCN2,CAMP,LTF,TLR2"
+Toll-Like Receptors Cascades(R),0.013,141,9,1.85E-05,3.29E-03,"MEF2A,LY96,S100A12,PELI1,TLR10,TLR5,TLR2,MAPK3,MAPK14"
+ATF-2 transcription factor network(N),0.0053,58,6,3.58E-05,4.80E-03,"SOCS3,GADD45A,ARG1,JDP2,MAPK3,MAPK14"
+Signaling by Interleukins(R),0.0423,460,15,8.91E-05,9.54E-03,"IL1RN,IRS2,IL18RAP,IL1R1,IL1R2,CSF2RA,RASGRP4,SOCS3,LCN2,RASGEF1A,MMP9,PELI1,MAPK3,OSM,IL18R1"
+Fructose and mannose metabolism(K),0.003,33,4,4.21E-04,0.0374,"PFKFB2,PFKFB4,PFKFB3,HK3"
+IL4-mediated signaling events(N),0.0058,63,5,5.47E-04,0.04,"SPI1,IRS2,SOCS3,ARG1,MAPK14"
+Amoebiasis(K),0.009,98,6,5.97E-04,0.04,"IL1R1,IL1R2,RAB5C,SERPINB1,ARG1,TLR2"
+Signaling events regulated by Ret tyrosine kinase(N),0.0036,39,4,7.82E-04,0.0462,"IRS2,GRB10,PDLIM7,MAPK3"
+TNF signaling pathway(K),0.0101,110,6,1.08E-03,0.0538,"SOCS3,BCL3,MMP9,MAPK3,MAPK14,IL18R1"
+"Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds(R)",0.004,43,4,1.12E-03,0.0538,"SLC11A1,SLC22A4,SLC40A1,SLC18A2"
+Type II diabetes mellitus(K),0.0044,48,4,1.67E-03,0.0736,"IRS2,SOCS3,HK3,MAPK3"
+Growth hormone receptor signaling(R),0.0022,24,3,2.10E-03,0.0863,"IRS2,SOCS3,MAPK3"
+IL2-mediated signaling events(N),0.005,54,4,2.55E-03,0.097,"IRS2,SOCS3,MAPK3,MAPK14"
+Metabolism of carbohydrates(R),0.0214,233,8,3.12E-03,0.1062,"G6PD,PGD,PFKFB2,PFKFB4,PFKFB3,PYGL,HK3,B4GALT5"
+Insulin signaling pathway(K),0.0129,140,6,3.58E-03,0.1062,"IRS2,SOCS3,PYGL,HK3,FLOT1,MAPK3"
+Hematopoietic cell lineage(K),0.0089,97,5,3.59E-03,0.1062,"IL1R1,IL1R2,CSF2RA,CD24,CD59"
+Validated targets of C-MYC transcriptional repression(N),0.0055,60,4,3.71E-03,0.1062,"SPI1,SLC11A1,ZFP36L1,GADD45A"
+IL12-mediated signaling events(N),0.0056,61,4,3.93E-03,0.1062,"IL18RAP,IL1R1,MAPK14,IL18R1"
+regulation of map kinase pathways through dual specificity phosphatases(B),0.0008,9,2,4.08E-03,0.1062,"MAPK3,MAPK14"
+toll-like receptor pathway(B),0.0029,32,3,4.70E-03,0.1143,"LY96,TLR2,MAPK3"
+Inflammatory bowel disease (IBD)(K),0.006,65,4,4.91E-03,0.1143,"IL18RAP,TLR5,TLR2,IL18R1"
+EPO signaling pathway(N),0.003,33,3,5.11E-03,0.1143,"IRS2,SOCS3,MAPK14"
+Toll-like receptor signaling pathway(K),0.0098,106,5,5.19E-03,0.1143,"LY96,TLR5,TLR2,MAPK3,MAPK14"
+IL1-mediated signaling events(N),0.0031,34,3,5.55E-03,0.1166,"IL1RN,IL1R1,IL1R2"
+signal transduction through il1r(B),0.0032,35,3,6.01E-03,0.1202,"IL1RN,IL1R1,MAPK3"
+Cytokine-cytokine receptor interaction(K),0.0244,265,8,6.66E-03,0.1259,"CXCL16,IL18RAP,IL1R1,IL1R2,CSF2RA,FLT1,OSM,IL18R1"
+IL23-mediated signaling events(N),0.0034,37,3,6.99E-03,0.1259,"IL18RAP,SOCS3,IL18R1"
+GMCSF-mediated signaling events(N),0.0034,37,3,6.99E-03,0.1259,"CSF2RA,MAPK3,OSM"
+Advanced glycosylation endproduct receptor signaling(R),0.0012,13,2,8.29E-03,0.141,"S100A12,MAPK3"
+RET signaling(R),0.0204,222,7,8.76E-03,0.1472,"IRS2,GRB10,CSF2RA,RASGRP4,RASGEF1A,PDLIM7,MAPK3"
+Glucocorticoid receptor regulatory network(N),0.0072,78,4,9.20E-03,0.1472,"SPI1,FKBP5,MAPK3,MAPK14"
+Atypical NF-kappaB pathway(N),0.0013,14,2,9.55E-03,0.1528,"BCL3,MAPK14"
+atm signaling pathway(B),0.0014,15,2,0.0109,0.1634,"GADD45A,MAPK3"
+Osteoclast differentiation(K),0.0121,132,5,0.0126,0.1788,"SPI1,IL1R1,SOCS3,MAPK3,MAPK14"
+Salmonella infection(K),0.0079,86,4,0.0128,0.1788,"TLR5,WAS,MAPK3,MAPK14"
+Post-translational modification: synthesis of GPI-anchored proteins(R),0.0081,88,4,0.0138,0.1795,"NTNG2,VNN1,VNN3,ALPL"
+Syndecan-1-mediated signaling events(N),0.0016,17,2,0.0138,0.1795,"MMP9,MAPK3"
+cell cycle: g2/m checkpoint(B),0.0016,17,2,0.0138,0.1795,"GADD45A,MAPK3"
+Angiopoietin receptor Tie2-mediated signaling(N),0.0046,50,3,0.0157,0.2037,"BMX,MAPK3,MAPK14"
+Mineral absorption(K),0.0048,52,3,0.0174,0.2211,"SLC8A1,SLC11A1,SLC40A1"
+hypoxia and p53 in the cardiovascular system(B),0.0018,20,2,0.0187,0.2211,"GADD45A,MAPK3"
+Pathogenic Escherichia coli infection(K),0.0051,55,3,0.0201,0.2211,"LY96,TLR5,WAS"
+Signaling by Leptin(R),0.0192,209,6,0.0224,0.2211,"IRS2,CSF2RA,RASGRP4,SOCS3,RASGEF1A,MAPK3"
+HIF-1 signaling pathway(K),0.0095,103,4,0.023,0.2211,"PFKFB3,FLT1,HK3,MAPK3"
+Platelet homeostasis(R),0.0054,59,3,0.0241,0.2211,"SLC8A1,MRVI1,MAPK14"
+nfkb activation by nontypeable hemophilus influenzae(B),0.0022,24,2,0.0263,0.2211,"TLR2,MAPK3"
+Myogenesis(R),0.0022,24,2,0.0263,0.2211,"MEF2A,MAPK14"
+VEGFR3 signaling in lymphatic endothelium(N),0.0023,25,2,0.0283,0.2211,"MAPK3,MAPK14"
+S1P3 pathway(N),0.0023,25,2,0.0283,0.2211,"FLT1,MAPK3"
+Endogenous TLR signaling(N),0.0023,25,2,0.0283,0.2211,"LY96,TLR2"
+Signaling events mediated by VEGFR1 and VEGFR2(N),0.0058,63,3,0.0285,0.2211,"FLT1,MAPK3,MAPK14"
+S1P2 pathway(N),0.0024,26,2,0.0304,0.2211,"MAPK3,MAPK14"
+ionomycin and phorbal ester signaling pathway(B),0.0003,3,1,0.0307,0.2211,MAPK3
+Reversible hydration of carbon dioxide(R),0.0003,3,1,0.0307,0.2211,CA4
+Signaling by VEGF(R),0.0264,287,7,0.0307,0.2211,"IRS2,CSF2RA,RASGRP4,FLT1,RASGEF1A,MAPK3,MAPK14"
+BCR signaling pathway(N),0.006,65,3,0.0308,0.2211,"BCL2A1,MAPK3,MAPK14"
+Shigellosis(K),0.006,65,3,0.0308,0.2211,"WAS,MAPK3,MAPK14"
+cGMP-PKG signaling pathway(K),0.0155,168,5,0.0315,0.2211,"IRS2,SLC8A1,MEF2A,MRVI1,MAPK3"
+Oxidative Stress Induced Senescence(R),0.0061,66,3,0.032,0.2211,"PHC2,MAPK3,MAPK14"
+Signaling by SCF-KIT(R),0.0267,290,7,0.0322,0.2211,"IRS2,GRB10,CSF2RA,RASGRP4,RASGEF1A,MMP9,MAPK3"
+VEGFR1 specific signals(N),0.0025,27,2,0.0326,0.2211,"FLT1,MAPK3"
+p38 MAPK signaling pathway(N),0.0025,27,2,0.0326,0.2211,"GADD45A,MAPK14"
+Central carbon metabolism in cancer(K),0.0062,67,3,0.0333,0.2211,"G6PD,HK3,MAPK3"
+NCAM signaling for neurite out-growth(R),0.0213,231,6,0.0341,0.2211,"IRS2,CSF2RA,RASGRP4,COL9A2,RASGEF1A,MAPK3"
+Dorso-ventral axis formation(K),0.0026,28,2,0.0348,0.2211,"ETS2,MAPK3"
+Toxoplasmosis(K),0.0109,118,4,0.0353,0.2211,"LY96,TLR2,MAPK3,MAPK14"
+Osteopontin-mediated events(N),0.0027,29,2,0.0371,0.2211,"MMP9,MAPK3"
+Adipocytokine signaling pathway(K),0.0064,70,3,0.0371,0.2211,"IRS2,ACSL1,SOCS3"
+Surfactant metabolism(R),0.0028,30,2,0.0394,0.2211,"CSF2RA,CKAP4"
+Pentose phosphate pathway(K),0.0028,30,2,0.0394,0.2211,"G6PD,PGD"
+Retinoic acid receptors-mediated signaling(N),0.0028,30,2,0.0394,0.2211,"MAPK3,MAPK14"
+IGF1 pathway(N),0.0028,30,2,0.0394,0.2211,"IRS2,GRB10"
+Tuberculosis(K),0.0165,179,5,0.0396,0.2211,"RAB5C,CAMP,TLR2,MAPK3,MAPK14"
+Prolactin signaling pathway(K),0.0066,72,3,0.0398,0.2211,"SOCS3,MAPK3,MAPK14"
+Transcriptional misregulation in cancer(K),0.0166,180,5,0.0404,0.2211,"SPI1,IL1R2,FLT1,MMP9,BCL2A1"
+phospholipase c signaling pathway(B),0.0004,4,1,0.0407,0.2211,MAPK3
+AMPK signaling pathway(K),0.0114,124,4,0.0411,0.2211,"IRS2,PFKFB2,PFKFB4,PFKFB3"
+Leishmaniasis(K),0.0067,73,3,0.0412,0.2211,"TLR2,MAPK3,MAPK14"
+IL12 signaling mediated by STAT4(N),0.0029,31,2,0.0418,0.2211,"IL18RAP,IL18R1"
+Oncogene Induced Senescence(R),0.0029,32,2,0.0443,0.2211,"ETS2,MAPK3"
+Pertussis(K),0.007,76,3,0.0454,0.2211,"LY96,MAPK3,MAPK14"
+Trk receptor signaling mediated by the MAPK pathway(N),0.003,33,2,0.0467,0.2211,"MAPK3,MAPK14"
+Transmission across Electrical Synapses (R),0.0005,5,1,0.0507,0.2211,PANX2
+"Neomycin, kanamycin and gentamicin biosynthesis(K)",0.0005,5,1,0.0507,0.2211,HK3
+MAPK signaling pathway(K),0.0235,255,6,0.0508,0.2211,"IL1R1,IL1R2,RASGRP4,GADD45A,MAPK3,MAPK14"
+FoxO signaling pathway(K),0.0123,134,4,0.0519,0.2211,"IRS2,GADD45A,MAPK3,MAPK14"
+CXCR3-mediated signaling events(N),0.0032,35,2,0.0519,0.2211,"MAPK3,MAPK14"
+Signaling mediated by p38-alpha and p38-beta(N),0.0032,35,2,0.0519,0.2211,"MEF2A,MAPK14"
+Starch and sucrose metabolism(K),0.0033,36,2,0.0545,0.2211,"PYGL,HK3"
+inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages(B),0.0033,36,2,0.0545,0.2211,"LY96,MAPK3"
+EGF receptor signaling pathway(P),0.0075,82,3,0.0546,0.2211,"TGFA,MAPK3,MAPK14"
+RAF/MAP kinase cascade(R),0.0185,201,5,0.0594,0.2211,"IRS2,CSF2RA,RASGRP4,RASGEF1A,MAPK3"
+Iron uptake and transport(R),0.0035,38,2,0.06,0.2211,"LCN2,SLC40A1"
+stat3 signaling pathway(B),0.0006,6,1,0.0605,0.2211,MAPK3
+apoptotic dna-fragmentation and tissue homeostasis(B),0.0006,6,1,0.0605,0.2211,HMGB2
+cdc25 and chk1 regulatory pathway in response to dna damage(B),0.0006,6,1,0.0605,0.2211,MAPK3
+Neurotransmitter Release Cycle(R),0.0037,40,2,0.0656,0.2211,"LIN7A,SLC18A2"
+Oxidative stress response(P),0.0037,40,2,0.0656,0.2211,"MEF2A,MAPK14"
+Bladder cancer(K),0.0038,41,2,0.0684,0.2211,"MMP9,MAPK3"
+Signaling by Insulin receptor(R),0.0255,277,6,0.0698,0.2211,"IRS2,GRB10,CSF2RA,RASGRP4,RASGEF1A,MAPK3"
+deregulation of cdk5 in alzheimers disease(B),0.0006,7,1,0.0702,0.2211,MAPK3
+Erythrocytes take up oxygen and release carbon dioxide(R),0.0006,7,1,0.0702,0.2211,CA4
+Fc gamma R-mediated phagocytosis(K),0.0086,93,3,0.0736,0.2211,"WAS,MAPK3,MARCKS"
+NF-kappa B signaling pathway(K),0.0087,95,3,0.0773,0.2211,"IL1R1,LY96,BCL2A1"
+il-2 receptor beta chain in t cell activation(B),0.004,44,2,0.0773,0.2211,"SOCS3,MAPK3"
+Rapid glucocorticoid signaling(N),0.0007,8,1,0.0798,0.2211,MAPK14
+Erythrocytes take up carbon dioxide and release oxygen(R),0.0007,8,1,0.0798,0.2211,CA4
+tsp-1 induced apoptosis in microvascular endothelial cell(B),0.0007,8,1,0.0798,0.2211,MAPK3
+Endocrine resistance(K),0.009,98,3,0.083,0.2211,"MMP9,MAPK3,MAPK14"
+FGF signaling pathway(N),0.0043,47,2,0.0865,0.2211,"MMP9,MAPK3"
+IL6-mediated signaling events(N),0.0043,47,2,0.0865,0.2211,"SOCS3,MAPK14"
+keratinocyte differentiation(B),0.0043,47,2,0.0865,0.2211,"ETS2,MAPK3"
+Apoptotic execution phase(R),0.0043,47,2,0.0865,0.2211,"BMX,HMGB2"
+Estrogen signaling pathway(K),0.0092,100,3,0.0869,0.2211,"FKBP5,MMP9,MAPK3"
+Choline metabolism in cancer(K),0.0093,101,3,0.0889,0.2211,"SLC22A4,WAS,MAPK3"
+regulation of splicing through sam68(B),0.0008,9,1,0.0894,0.2211,MAPK3
+tnfr2 signaling pathway(B),0.0008,9,1,0.0894,0.2211,MAPK3
+Ras signaling pathway(K),0.0211,229,5,0.0914,0.2211,"ETS2,RAB5C,RASGRP4,FLT1,MAPK3"
+Chagas disease (American trypanosomiasis)(K),0.0096,104,3,0.095,0.2211,"TLR2,MAPK3,MAPK14"
+Gastrin-CREB signalling pathway via PKC and MAPK(R),0.0346,376,7,0.0978,0.2211,"IRS2,PROK2,CSF2RA,RASGRP4,LTB4R,RASGEF1A,MAPK3"
+DSCAM interactions(R),0.0009,10,1,0.0988,0.2211,MAPK14
+effects of calcineurin in keratinocyte differentiation(B),0.0009,10,1,0.0988,0.2211,MARCKS
+il22 soluble receptor signaling pathway(B),0.0009,10,1,0.0988,0.2211,SOCS3
+VEGF and VEGFR signaling network(N),0.0009,10,1,0.0988,0.2211,FLT1
+Th17 cell differentiation(K),0.0098,107,3,0.1012,0.2211,"IL1R1,MAPK3,MAPK14"
+NOD-like receptor signaling pathway(K),0.0156,170,4,0.102,0.2211,"CAMP,MAPK3,CARD6,MAPK14"
+Role of Calcineurin-dependent NFAT signaling in lymphocytes(N),0.0048,52,2,0.1024,0.2211,"MAPK3,MAPK14"
+Signaling events mediated by Stem cell factor receptor (c-Kit)(N),0.0048,52,2,0.1024,0.2211,"GRB10,MAPK3"
+Insulin resistance(K),0.01,109,3,0.1055,0.2211,"IRS2,SOCS3,PYGL"
+mapkinase signaling pathway(B),0.0049,53,2,0.1057,0.2211,"MAPK3,MAPK14"
+protein kinase a at the centrosome(B),0.001,11,1,0.1081,0.2211,MAPK3
+rb tumor suppressor/checkpoint signaling in response to dna damage(B),0.001,11,1,0.1081,0.2211,MAPK3
+Glutathione metabolism(K),0.005,54,2,0.109,0.2211,"G6PD,PGD"
+Legionellosis(K),0.0051,55,2,0.1124,0.2211,"TLR5,TLR2"
+Non-small cell lung cancer(K),0.0052,56,2,0.1158,0.2211,"TGFA,MAPK3"
+Carbon metabolism(K),0.0105,114,3,0.1164,0.2211,"G6PD,PGD,HK3"
+regulation of eif2(B),0.0011,12,1,0.1174,0.2211,MAPK3
+granzyme a mediated apoptosis pathway(B),0.0011,12,1,0.1174,0.2211,HMGB2
+trka receptor signaling pathway(B),0.0011,12,1,0.1174,0.2211,MAPK3
+repression of pain sensation by the transcriptional regulator dream(B),0.0011,12,1,0.1174,0.2211,MAPK3
+il-10 anti-inflammatory signaling pathway(B),0.0011,12,1,0.1174,0.2211,MAPK3
+akap95 role in mitosis and chromosome dynamics(B),0.0011,12,1,0.1174,0.2211,MAPK3
+role of ran in mitotic spindle regulation(B),0.0011,12,1,0.1174,0.2211,MAPK3
+p53 signaling pathway(B),0.0011,12,1,0.1174,0.2211,GADD45A
+Acute myeloid leukemia(K),0.0052,57,2,0.1192,0.2211,"SPI1,MAPK3"
+ER to Golgi Anterograde Transport(R),0.0108,117,3,0.1232,0.2211,"TGFA,F5,CD59"
+B cell activation(P),0.0054,59,2,0.126,0.2211,"MAPK3,MAPK14"
+Alzheimer disease-amyloid secretase pathway(P),0.0054,59,2,0.126,0.2211,"MAPK3,MAPK14"
+human cytomegalovirus and map kinase pathways(B),0.0012,13,1,0.1265,0.2211,MAPK3
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism(R),0.0012,13,1,0.1265,0.2211,ACSL1
+extrinsic prothrombin activation pathway(B),0.0012,13,1,0.1265,0.2211,F5
+phosphorylation of mek1 by cdk5/p35 down regulates the map kinase pathway(B),0.0012,13,1,0.1265,0.2211,MAPK3
+cadmium induces dna synthesis and proliferation in macrophages(B),0.0012,13,1,0.1265,0.2211,MAPK3
+melanocyte development and pigmentation pathway(B),0.0012,13,1,0.1265,0.2211,MAPK3
+Fatty acid biosynthesis(K),0.0012,13,1,0.1265,0.2211,ACSL1
+il12 and stat4 dependent signaling pathway in th1 development(B),0.0012,13,1,0.1265,0.2211,MAPK3
+b cell survival pathway(B),0.0012,13,1,0.1265,0.2211,MAPK3
+multiple antiapoptotic pathways from igf-1r signaling lead to bad phosphorylation(B),0.0012,13,1,0.1265,0.2211,MAPK3
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)(R),0.0235,255,5,0.1276,0.2211,"IRS2,CSF2RA,RASGRP4,RASGEF1A,MAPK3"
+Signaling by PDGF(R),0.0302,328,6,0.1277,0.2211,"IRS2,CSF2RA,RASGRP4,COL9A2,RASGEF1A,MAPK3"
+Herpes simplex infection(K),0.017,185,4,0.1278,0.2211,"SOCS3,SRPK1,UBE2R2,TLR2"
+Neurotrophin signaling pathway(K),0.0111,121,3,0.1324,0.2211,"MAPK3,SORT1,MAPK14"
+VEGF signaling pathway(K),0.0056,61,2,0.133,0.2211,"MAPK3,MAPK14"
+S1P4 pathway(N),0.0013,14,1,0.1356,0.2211,MAPK3
+il 4 signaling pathway(B),0.0013,14,1,0.1356,0.2211,MAPK3
+the 41bb-dependent immune response(B),0.0013,14,1,0.1356,0.2211,MAPK3
+apoptotic signaling in response to dna damage(B),0.0013,14,1,0.1356,0.2211,MAPK3
+Ras signaling in the CD4+ TCR pathway(N),0.0013,14,1,0.1356,0.2211,MAPK3
+Endothelins(N),0.0057,62,2,0.1365,0.2211,"MAPK3,MAPK14"
+Ras Pathway(P),0.0058,63,2,0.14,0.2211,"MAPK3,MAPK14"
+Regulation of retinoblastoma protein(N),0.0059,64,2,0.1436,0.2211,"SPI1,MAPK14"
+telomeres telomerase cellular aging and immortality(B),0.0014,15,1,0.1445,0.2211,MAPK3
+ErbB receptor signaling network(N),0.0014,15,1,0.1445,0.2211,TGFA
+calcium signaling by hbx of hepatitis b virus(B),0.0014,15,1,0.1445,0.2211,MAPK3
+Folate biosynthesis(K),0.0014,15,1,0.1445,0.2211,ALPL
+Arf6 downstream pathway(N),0.0014,15,1,0.1445,0.2211,MAPK3
+aspirin blocks signaling pathway involved in platelet activation(B),0.0014,15,1,0.1445,0.2211,MAPK3
+Interferon-gamma signaling pathway(P),0.0014,15,1,0.1445,0.2211,SOCS3
+regulation of cell cycle progression by plk3(B),0.0014,15,1,0.1445,0.2211,MAPK3
+HIF-1-alpha transcription factor network(N),0.006,65,2,0.1471,0.2211,"PFKFB3,ADM"
+Signalling by NGF(R),0.0387,421,7,0.1496,0.2211,"IRS2,MEF2A,CSF2RA,RASGRP4,RASGEF1A,MAPK3,MAPK14"
+Glioma(K),0.0061,66,2,0.1507,0.2211,"TGFA,MAPK3"
+Pancreatic cancer(K),0.0061,66,2,0.1507,0.2211,"TGFA,MAPK3"
+bone remodeling(B),0.0015,16,1,0.1534,0.2211,MAPK3
+nerve growth factor pathway (ngf)(B),0.0015,16,1,0.1534,0.2211,MAPK3
+RAF-independent MAPK1/3 activation(R),0.0015,16,1,0.1534,0.2211,MAPK3
+Thiamine metabolism(K),0.0015,16,1,0.1534,0.2211,ALPL
+akt signaling pathway(B),0.0015,16,1,0.1534,0.2211,MAPK3
+the igf-1 receptor and longevity(B),0.0015,16,1,0.1534,0.2211,MAPK3
+role of nicotinic acetylcholine receptors in the regulation of apoptosis(B),0.0015,16,1,0.1534,0.2211,MAPK3
+role of mal in rho-mediated activation of srf(B),0.0015,16,1,0.1534,0.2211,MAPK3
+Renal cell carcinoma(K),0.0062,67,2,0.1543,0.2211,"TGFA,MAPK3"
+Focal adhesion(K),0.0185,201,4,0.1579,0.2211,"COL9A2,FLT1,MAPK3,ZYX"
+Regulation of Telomerase(N),0.0063,68,2,0.158,0.2211,"SAP30,MAPK3"
+Direct p53 effectors(N),0.0121,132,3,0.159,0.2211,"TGFA,GADD45A,BCL2A1"
+Hepatitis C(K),0.0122,133,3,0.1615,0.2211,"SOCS3,MAPK3,MAPK14"
+control of skeletal myogenesis by hdac and calcium/calmodulin-dependent kinase (camk)(B),0.0016,17,1,0.1621,0.2211,MAPK3
+Nitrogen metabolism(K),0.0016,17,1,0.1621,0.2211,CA4
+pten dependent cell cycle arrest and apoptosis(B),0.0016,17,1,0.1621,0.2211,MAPK3
+Thrombin signalling through proteinase activated receptors (PARs)(R),0.0016,17,1,0.1621,0.2211,MAPK3
+phosphoinositides and their downstream targets(B),0.0016,17,1,0.1621,0.2211,MAPK3
+Ligand-dependent caspase activation(R),0.0016,17,1,0.1621,0.2211,LY96
+gata3 participate in activating the th2 cytokine genes expression(B),0.0016,17,1,0.1621,0.2211,MAPK3
+hypoxia-inducible factor in the cardivascular system(B),0.0016,17,1,0.1621,0.2211,ASPH
+Signal amplification(R),0.0016,17,1,0.1621,0.2211,MAPK14
+CDC42 signaling events(N),0.0064,70,2,0.1652,0.2211,"MAPK3,MAPK14"
+Fc epsilon RI signaling pathway(K),0.0064,70,2,0.1652,0.2211,"MAPK3,MAPK14"
+Proteoglycans in cancer(K),0.0189,205,4,0.1658,0.2211,"MMP9,TLR2,MAPK3,MAPK14"
+map kinase inactivation of smrt corepressor(B),0.0017,18,1,0.1708,0.2211,MAPK3
+Regulation of cytoplasmic and nuclear SMAD2/3 signaling(N),0.0017,18,1,0.1708,0.2211,MAPK3
+Pantothenate and CoA biosynthesis(K),0.0017,18,1,0.1708,0.2211,VNN1
+S1P1 pathway(N),0.0017,18,1,0.1708,0.2211,MAPK3
+mets affect on macrophage differentiation(B),0.0017,18,1,0.1708,0.2211,ETS2
+Ubiquitin mediated proteolysis(K),0.0126,137,3,0.1716,0.2211,"UBE2J1,SOCS3,UBE2R2"
+Adherens junction(K),0.0066,72,2,0.1726,0.2211,"WAS,MAPK3"
+Metabolism of water-soluble vitamins and cofactors(R),0.0067,73,2,0.1763,0.2211,"VNN1,TCN1"
+Apoptosis(K),0.0129,140,3,0.1793,0.2211,"GADD45A,BCL2A1,MAPK3"
+Cellular roles of Anthrax toxin(N),0.0017,19,1,0.1794,0.2211,MAPK3
+sprouty regulation of tyrosine kinase signals(B),0.0017,19,1,0.1794,0.2211,MAPK3
+tgf beta signaling pathway(B),0.0017,19,1,0.1794,0.2211,MAPK3
+fas signaling pathway (cd95)(B),0.0017,19,1,0.1794,0.2211,MAPK3
+tumor suppressor arf inhibits ribosomal biogenesis(B),0.0017,19,1,0.1794,0.2211,MAPK3
+Rap1 signaling pathway(K),0.0195,212,4,0.18,0.2211,"FLT1,SIPA1L2,MAPK3,MAPK14"
+O-linked glycosylation(R),0.0069,75,2,0.1837,0.2211,"B3GNT5,B4GALT5"
+tnf/stress related signaling(B),0.0018,20,1,0.1879,0.2211,MAPK3
+role of brca1 brca2 and atr in cancer susceptibility(B),0.0018,20,1,0.1879,0.2211,MAPK3
+lissencephaly gene (lis1) in neuronal migration and development(B),0.0018,20,1,0.1879,0.2211,MAPK3
+regulation of bad phosphorylation(B),0.0018,20,1,0.1879,0.2211,MAPK3
+Asparagine N-linked glycosylation(R),0.0202,219,4,0.1945,0.2211,"TGFA,F5,B4GALT5,CD59"
+Hepatitis B(K),0.0134,146,3,0.1949,0.2211,"MMP9,TLR2,MAPK3"
+egf signaling pathway(B),0.0019,21,1,0.1963,0.2211,MAPK3
+cell cycle: g1/s check point(B),0.0019,21,1,0.1963,0.2211,MAPK3
+induction of apoptosis through dr3 and dr4/5 death receptors(B),0.0019,21,1,0.1963,0.2211,MAPK3
+erk1/erk2 mapk signaling pathway(B),0.0019,21,1,0.1963,0.2211,MAPK3
+E-cadherin signaling in keratinocytes(N),0.0019,21,1,0.1963,0.2211,ZYX
+igf-1 signaling pathway(B),0.0019,21,1,0.1963,0.2211,MAPK3
+segmentation clock(B),0.0019,21,1,0.1963,0.2211,MAPK3
+Arginine biosynthesis(K),0.0019,21,1,0.1963,0.2211,ARG1
+how progesterone initiates the oocyte maturation(B),0.0019,21,1,0.1963,0.2211,MAPK3
+nf-kb signaling pathway(B),0.0019,21,1,0.1963,0.2211,IL1R1
+p38 signaling mediated by MAPKAP kinases(N),0.0019,21,1,0.1963,0.2211,MAPK14
+Complement and coagulation cascades(K),0.0073,79,2,0.1987,0.2211,"F5,CD59"
+TGF-beta signaling pathway(P),0.0074,80,2,0.2025,0.2211,"MAPK3,MAPK14"
+Adrenergic signaling in cardiomyocytes(K),0.0137,149,3,0.2028,0.2211,"SLC8A1,MAPK3,MAPK14"
+stathmin and breast cancer resistance to antimicrotubule agents(B),0.002,22,1,0.2047,0.2211,MAPK3
+intrinsic prothrombin activation pathway(B),0.002,22,1,0.2047,0.2211,F5
+ras signaling pathway(B),0.002,22,1,0.2047,0.2211,MAPK3
+inhibition of cellular proliferation by gleevec(B),0.002,22,1,0.2047,0.2211,MAPK3
+ccr3 signaling in eosinophils(B),0.002,22,1,0.2047,0.2211,MAPK3
+influence of ras and rho proteins on g1 to s transition(B),0.002,22,1,0.2047,0.2211,MAPK3
+signaling pathway from g-protein families(B),0.002,22,1,0.2047,0.2211,MAPK3
+TRAIL signaling pathway(N),0.002,22,1,0.2047,0.2211,MAPK3
+T cell activation(P),0.0075,81,2,0.2063,0.2211,"WAS,MAPK3"
+EGFR tyrosine kinase inhibitor resistance(K),0.0075,81,2,0.2063,0.2211,"TGFA,MAPK3"
+C-MYB transcription factor network(N),0.0075,82,2,0.21,0.2211,"SPI1,ETS2"
+L1CAM interactions(R),0.0075,82,2,0.21,0.2211,"CD24,MAPK3"
+links between pyk2 and map kinases(B),0.0021,23,1,0.2129,0.2211,MAPK3
+regulation of eif-4e and p70s6 kinase(B),0.0021,23,1,0.2129,0.2211,MAPK3
+Signaling events mediated by PRL(N),0.0021,23,1,0.2129,0.2211,MAPK3
+role of erk5 in neuronal survival pathway(B),0.0021,23,1,0.2129,0.2211,MAPK3
+Proximal tubule bicarbonate reclamation(K),0.0021,23,1,0.2129,0.2211,CA4
+corticosteroids and cardioprotection(B),0.0022,24,1,0.2211,0.2211,MAPK3
+mtor signaling pathway(B),0.0022,24,1,0.2211,0.2211,MAPK3
+transcription factor creb and its extracellular signals(B),0.0022,24,1,0.2211,0.2211,MAPK3
+p53 pathway feedback loops 2(P),0.0022,24,1,0.2211,0.2211,MAPK14
+skeletal muscle hypertrophy is regulated via akt-mtor pathway(B),0.0022,24,1,0.2211,0.2211,MAPK3
+fmlp induced chemokine gene expression in hmc-1 cells(B),0.0022,24,1,0.2211,0.2211,MAPK3
+Alpha9 beta1 integrin signaling events(N),0.0022,24,1,0.2211,0.2211,CSF2RA
+Jak-STAT signaling pathway(K),0.0145,158,3,0.2271,0.2271,"CSF2RA,SOCS3,OSM"
+Regulation of mRNA stability by proteins that bind AU-rich elements(R),0.008,87,2,0.2291,0.2291,"ZFP36L1,MAPK14"
+Nongenotropic Androgen signaling(N),0.0023,25,1,0.2291,0.2291,MAPK3
+ras-independent pathway in nk cell-mediated cytotoxicity(B),0.0023,25,1,0.2291,0.2291,MAPK3
+fc epsilon receptor i signaling in mast cells(B),0.0023,25,1,0.2291,0.2291,MAPK3
+Glypican 1 network(N),0.0023,25,1,0.2291,0.2291,FLT1
+tpo signaling pathway(B),0.0023,25,1,0.2291,0.2291,MAPK3
+Pathways in cancer(K),0.0365,397,6,0.2326,0.2326,"SPI1,TGFA,CSF2RA,RASGRP4,MMP9,MAPK3"
+ErbB signaling pathway(K),0.0081,88,2,0.2329,0.2329,"TGFA,MAPK3"
+Signaling by EGFR(R),0.0292,317,5,0.2348,0.2348,"IRS2,CSF2RA,RASGRP4,RASGEF1A,MAPK3"
+Prostate cancer(K),0.0082,89,2,0.2367,0.2367,"TGFA,MAPK3"
+bcr signaling pathway(B),0.0024,26,1,0.2371,0.2371,MAPK3
+mcalpain and friends in cell motility(B),0.0024,26,1,0.2371,0.2371,MAPK3
+IL3-mediated signaling events(N),0.0024,26,1,0.2371,0.2371,OSM
+bioactive peptide induced signaling pathway(B),0.0024,26,1,0.2371,0.2371,MAPK3
+RXR and RAR heterodimerization with other nuclear receptor(N),0.0024,26,1,0.2371,0.2371,ABCA1
+multi-step regulation of transcription by pitx2(B),0.0024,26,1,0.2371,0.2371,MAPK3
+pdgf signaling pathway(B),0.0024,26,1,0.2371,0.2371,MAPK3
+PI3 kinase pathway(P),0.0024,26,1,0.2371,0.2371,GADD45A
+ALK1 signaling events(N),0.0024,26,1,0.2371,0.2371,MAPK3
+Protein digestion and absorption(K),0.0083,90,2,0.2406,0.2406,"SLC8A1,COL9A2"
+Rheumatoid arthritis(K),0.0083,90,2,0.2406,0.2406,"FLT1,TLR2"
+Glycosphingolipid biosynthesis - lacto and neolacto series(K),0.0025,27,1,0.2451,0.2451,B3GNT5
+DAP12 interactions(R),0.0297,323,5,0.2464,0.2464,"IRS2,CSF2RA,RASGRP4,RASGEF1A,MAPK3"
+FGF signaling pathway(P),0.0085,92,2,0.2482,0.2482,"MAPK3,MAPK14"
+Th1 and Th2 cell differentiation(K),0.0085,92,2,0.2482,0.2482,"MAPK3,MAPK14"
+GnRH signaling pathway(K),0.0085,92,2,0.2482,0.2482,"MAPK3,MAPK14"
+role of ÃŸ-arrestins in the activation and targeting of map kinases(B),0.0026,28,1,0.2529,0.2529,MAPK3
+role of erbb2 in signal transduction and oncology(B),0.0026,28,1,0.2529,0.2529,MAPK3
+Wnt signaling network(N),0.0026,28,1,0.2529,0.2529,KREMEN1
+vegf hypoxia and angiogenesis(B),0.0026,28,1,0.2529,0.2529,MAPK3
+ErbB4 signaling events(N),0.0026,28,1,0.2529,0.2529,MAPK3
+EGF receptor (ErbB1) signaling pathway(N),0.0027,29,1,0.2606,0.2606,MAPK3
+Thyroid cancer(K),0.0027,29,1,0.2606,0.2606,MAPK3
+CD40/CD40L signaling(N),0.0027,29,1,0.2606,0.2606,MAPK14
+hiv-1 nef: negative effector of fas and tnf(B),0.0028,30,1,0.2683,0.2683,MAPK3
+erk and pi-3 kinase are necessary for collagen binding in corneal epithelia(B),0.0028,30,1,0.2683,0.2683,MAPK3
+ceramide signaling pathway(B),0.0028,30,1,0.2683,0.2683,MAPK3
+wnt signaling pathway(B),0.0028,30,1,0.2683,0.2683,MAPK3
+Progesterone-mediated oocyte maturation(K),0.009,98,2,0.2713,0.2713,"MAPK3,MAPK14"
+Influenza A(K),0.0161,175,3,0.2743,0.2743,"SOCS3,MAPK3,MAPK14"
+Inflammatory mediator regulation of TRP channels(K),0.0091,99,2,0.2751,0.2751,"IL1R1,MAPK14"
+Regulation of p38-alpha and p38-beta(N),0.0029,31,1,0.2759,0.2759,MAPK14
+Aurora A signaling(N),0.0029,31,1,0.2759,0.2759,GADD45A
+Galactose metabolism(K),0.0029,31,1,0.2759,0.2759,HK3
+amb2 Integrin signaling(N),0.0029,31,1,0.2759,0.2759,MMP9
+phospholipids as signalling intermediaries(B),0.0029,31,1,0.2759,0.2759,MAPK3
+Mucin type O-glycan biosynthesis(K),0.0029,31,1,0.2759,0.2759,B4GALT5
+p38 mapk signaling pathway(B),0.0029,31,1,0.2759,0.2759,MAPK3
+role of egf receptor transactivation by gpcrs in cardiac hypertrophy(B),0.0029,31,1,0.2759,0.2759,MAPK3
+trefoil factors initiate mucosal healing(B),0.0029,31,1,0.2759,0.2759,MAPK3
+Axon guidance(K),0.0163,177,3,0.2799,0.2799,"NTNG2,SSH2,MAPK3"
+HTLV-I infection(K),0.0237,258,4,0.2813,0.2813,"SPI1,ETS2,IL1R1,IL1R2"
+PI3K-Akt signaling pathway(K),0.0314,341,5,0.2818,0.2818,"COL9A2,FLT1,TLR2,MAPK3,OSM"
+AGE-RAGE signaling pathway in diabetic complications(K),0.0093,101,2,0.2828,0.2828,"MAPK3,MAPK14"
+Retrograde endocannabinoid signaling(K),0.0093,101,2,0.2828,0.2828,"MAPK3,MAPK14"
+rho cell motility signaling pathway(B),0.0029,32,1,0.2834,0.2834,MAPK3
+HIF-2-alpha transcription factor network(N),0.0029,32,1,0.2834,0.2834,FLT1
+Syndecan-4-mediated signaling events(N),0.0029,32,1,0.2834,0.2834,MMP9
+"ROS, RNS production in phagocytes(R)",0.0029,32,1,0.2834,0.2834,SLC11A1
+roles of ÃŸ arrestin dependent recruitment of src kinases in gpcr signaling(B),0.0029,32,1,0.2834,0.2834,MAPK3
+FAS (CD95) signaling pathway(N),0.0029,32,1,0.2834,0.2834,MAPK14
+Netrin-mediated signaling events(N),0.0029,32,1,0.2834,0.2834,MAPK3
+Syndecan-2-mediated signaling events(N),0.0029,32,1,0.2834,0.2834,MAPK3
+Endocytosis(K),0.0239,260,4,0.2859,0.2859,"SH3GLB1,RAB5C,FLT1,WAS"
+integrin signaling pathway(B),0.003,33,1,0.2908,0.2908,MAPK3
+Smooth Muscle Contraction(R),0.003,33,1,0.2908,0.2908,DYSF
+angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling(B),0.003,33,1,0.2908,0.2908,MAPK3
+T cell receptor signaling pathway(K),0.0097,105,2,0.2981,0.2981,"MAPK3,MAPK14"
+actions of nitric oxide in the heart(B),0.0031,34,1,0.2982,0.2982,MAPK3
+Prion diseases(K),0.0032,35,1,0.3055,0.3055,MAPK3
+IL2 signaling events mediated by PI3K(N),0.0032,35,1,0.3055,0.3055,UGCG
+Cardiac conduction(R),0.0098,107,2,0.3058,0.3058,"SLC8A1,ASPH"
+Chemokine signaling pathway(K),0.0172,187,3,0.3082,0.3082,"CXCL16,WAS,MAPK3"
+mechanism of gene regulation by peroxisome proliferators via ppara(B),0.0033,36,1,0.3127,0.3127,MAPK3
+Class I MHC mediated antigen processing & presentation(R),0.0174,189,3,0.3138,0.3138,"LY96,FBXL5,TLR2"
+Validated transcriptional targets of AP1 family members Fra1 and Fra2(N),0.0034,37,1,0.3198,0.3198,MMP9
+rac1 cell motility signaling pathway(B),0.0034,37,1,0.3198,0.3198,MAPK3
+ErbB2/ErbB3 signaling events(N),0.0034,37,1,0.3198,0.3198,MAPK3
+nfat and hypertrophy of the heart (B),0.0034,37,1,0.3198,0.3198,MAPK3
+PIP3 activates AKT signaling(R),0.0102,111,2,0.3211,0.3211,"IRS2,MAPK3"
+EPHB forward signaling(N),0.0035,38,1,0.3269,0.3269,MAPK3
+Serotonergic synapse(K),0.0104,113,2,0.3287,0.3287,"SLC18A2,MAPK3"
+Aldosterone-regulated sodium reabsorption(K),0.0036,39,1,0.3339,0.3339,MAPK3
+Formation of Fibrin Clot (Clotting Cascade)(R),0.0036,39,1,0.3339,0.3339,F5
+Leukocyte transendothelial migration(K),0.0107,116,2,0.34,0.34,"MMP9,MAPK14"
+IFN-gamma pathway(N),0.0037,40,1,0.3408,0.3408,MAPK3
+Signaling by FGFR3(R),0.0037,40,1,0.3408,0.3408,MAPK3
+FOXM1 transcription factor network(N),0.0037,40,1,0.3408,0.3408,TGFA
+Thyroid hormone signaling pathway(K),0.0109,118,2,0.3476,0.3476,"PFKFB2,MAPK3"
+Signaling by FGFR4(R),0.0038,41,1,0.3476,0.3476,MAPK3
+Fat digestion and absorption(K),0.0038,41,1,0.3476,0.3476,ABCA1
+Stabilization and expansion of the E-cadherin adherens junction(N),0.0039,42,1,0.3544,0.3544,ZYX
+TBC/RABGAPs(R),0.0039,42,1,0.3544,0.3544,RAB5C
+Plasma membrane estrogen receptor signaling(N),0.0039,42,1,0.3544,0.3544,MMP9
+Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling(N),0.0039,42,1,0.3544,0.3544,MMP9
+PDGFR-beta signaling pathway(N),0.011,120,2,0.3551,0.3551,"GRB10,MAPK3"
+Sphingolipid signaling pathway(K),0.011,120,2,0.3551,0.3551,"MAPK3,MAPK14"
+Vascular smooth muscle contraction(K),0.0111,121,2,0.3588,0.3588,"MRVI1,MAPK3"
+ion channels and their functional role in vascular endothelium(B),0.004,43,1,0.3611,0.3611,MAPK3
+PAR1-mediated thrombin signaling events(N),0.004,43,1,0.3611,0.3611,ZYX
+Platelet activation(K),0.0112,122,2,0.3626,0.3626,"MAPK3,MAPK14"
+Lysosome(K),0.0113,123,2,0.3663,0.3663,"SLC11A1,SORT1"
+Fatty acid degradation(K),0.004,44,1,0.3677,0.3677,ACSL1
+p53 pathway(P),0.004,44,1,0.3677,0.3677,GADD45A
+Vasopressin-regulated water reabsorption(K),0.004,44,1,0.3677,0.3677,RAB5C
+Hexose transport(R),0.0041,45,1,0.3743,0.3743,HK3
+ABC transporters(K),0.0041,45,1,0.3743,0.3743,ABCA1
+Integrin-linked kinase signaling(N),0.0041,45,1,0.3743,0.3743,ZYX
+agrin in postsynaptic differentiation(B),0.0041,45,1,0.3743,0.3743,MAPK3
+Presenilin action in Notch and Wnt signaling(N),0.0041,45,1,0.3743,0.3743,MAPK3
+Insulin Pathway(N),0.0041,45,1,0.3743,0.3743,GRB10
+Carbohydrate digestion and absorption(K),0.0042,46,1,0.3808,0.3808,HK3
+Drug metabolism - other enzymes(K),0.0042,46,1,0.3808,0.3808,UPP1
+Regulation of actin cytoskeleton(K),0.0197,214,3,0.3846,0.3846,"SSH2,WAS,MAPK3"
+Integrins in angiogenesis(N),0.0043,47,1,0.3872,0.3872,MAPK3
+Endocrine and other factor-regulated calcium reabsorption(K),0.0043,47,1,0.3872,0.3872,SLC8A1
+Amyloid fiber formation(R),0.0043,47,1,0.3872,0.3872,LTF
+Sphingolipid metabolism(K),0.0043,47,1,0.3872,0.3872,UGCG
+Dopaminergic synapse(K),0.012,130,2,0.3922,0.3922,"SLC18A2,MAPK14"
+Hedgehog signaling events mediated by Gli proteins(N),0.0044,48,1,0.3936,0.3936,SAP30
+Ceramide signaling pathway(N),0.0044,48,1,0.3936,0.3936,MAPK3
+Fatty acid metabolism(K),0.0044,48,1,0.3936,0.3936,ACSL1
+Amino sugar and nucleotide sugar metabolism(K),0.0044,48,1,0.3936,0.3936,HK3
+Metabolism of nucleotides(R),0.0044,48,1,0.3936,0.3936,UPP1
+t cell receptor signaling pathway(B),0.0044,48,1,0.3936,0.3936,MAPK3
+FoxO family signaling(N),0.0044,48,1,0.3936,0.3936,GADD45A
+GPVI-mediated activation cascade(R),0.0045,49,1,0.3999,0.3999,CSF2RA
+Signaling by FGFR1(R),0.0045,49,1,0.3999,0.3999,MAPK3
+Cocaine addiction(K),0.0045,49,1,0.3999,0.3999,SLC18A2
+NoRC negatively regulates rRNA expression(R),0.0045,49,1,0.3999,0.3999,SAP30
+Regulation of Androgen receptor activity(N),0.0045,49,1,0.3999,0.3999,MAPK14
+Validated transcriptional targets of TAp63 isoforms(N),0.0045,49,1,0.3999,0.3999,GADD45A
+Malaria(K),0.0045,49,1,0.3999,0.3999,TLR2
+Interactions of neurexins and neuroligins at synapses(R),0.0046,50,1,0.4061,0.4061,LIN7A
+Arginine and proline metabolism(K),0.0046,50,1,0.4061,0.4061,ARG1
+Amyotrophic lateral sclerosis (ALS)(K),0.0047,51,1,0.4123,0.4123,MAPK14
+Fc epsilon receptor (FCERI) signaling(R),0.0373,405,5,0.4131,0.4131,"IRS2,CSF2RA,RASGRP4,RASGEF1A,MAPK3"
+Senescence-Associated Secretory Phenotype (SASP)(R),0.0048,52,1,0.4184,0.4184,MAPK3
+Mitochondrial biogenesis(R),0.0048,52,1,0.4184,0.4184,MAPK14
+Signaling events mediated by PTP1B(N),0.0048,52,1,0.4184,0.4184,SOCS3
+Endometrial cancer(K),0.0048,52,1,0.4184,0.4184,MAPK3
+Thromboxane A2 receptor signaling(N),0.005,54,1,0.4305,0.4305,MAPK14
+RAC1 signaling pathway(N),0.005,54,1,0.4305,0.4305,MAPK14
+Parkinson's disease(K),0.0131,142,2,0.4354,0.4354,"UBE2J1,SLC18A2"
+Signaling pathways regulating pluripotency of stem cells(K),0.0131,142,2,0.4354,0.4354,"MAPK3,MAPK14"
+Interleukin signaling pathway(P),0.0051,55,1,0.4364,0.4364,SPI1
+Transport of inorganic cations/anions and amino acids/oligopeptides(R),0.0051,55,1,0.4364,0.4364,SLC8A1
+Endothelin signaling pathway(P),0.0051,55,1,0.4364,0.4364,MAPK3
+Regulation of lipolysis in adipocytes(K),0.0052,56,1,0.4422,0.4422,IRS2
+Signaling events mediated by HDAC Class I(N),0.0052,56,1,0.4422,0.4422,SAP30
+p53 pathway(N),0.0052,57,1,0.448,0.448,MAPK14
+Protein ubiquitination(R),0.0053,58,1,0.4538,0.4538,UBE2R2
+PI Metabolism(R),0.0054,59,1,0.4595,0.4595,BMX
+Signaling events mediated by focal adhesion kinase(N),0.0055,60,1,0.4651,0.4651,BMX
+Long-term depression(K),0.0055,60,1,0.4651,0.4651,MAPK3
+Neurotrophic factor-mediated Trk receptor signaling(N),0.0055,60,1,0.4651,0.4651,MAPK3
+Coregulation of Androgen receptor activity(N),0.0055,60,1,0.4651,0.4651,MAK
+Non-alcoholic fatty liver disease (NAFLD)(K),0.0139,151,2,0.4667,0.4667,"IRS2,SOCS3"
+Signaling by PTK6(R),0.0056,61,1,0.4706,0.4706,SOCS3
+Parkinson disease(P),0.0056,61,1,0.4706,0.4706,MAPK3
+Fc-epsilon receptor I signaling in mast cells(N),0.0057,62,1,0.4762,0.4762,MAPK3
+Colorectal cancer(K),0.0057,62,1,0.4762,0.4762,MAPK3
+Phagosome(K),0.0142,154,2,0.4769,0.4769,"RAB5C,TLR2"
+mTOR signaling pathway(K),0.0142,154,2,0.4769,0.4769,"GRB10,MAPK3"
+LPA receptor mediated events(N),0.0058,63,1,0.4816,0.4816,MMP9
+Synaptic vesicle cycle(K),0.0058,63,1,0.4816,0.4816,SLC18A2
+Downstream signaling in naïve CD8+ T cells(N),0.0059,64,1,0.487,0.487,MAPK3
+Longevity regulating pathway - multiple species(K),0.0059,64,1,0.487,0.487,IRS2
+mTOR signaling pathway(N),0.0059,64,1,0.487,0.487,MAPK3
+Integrin signalling pathway(P),0.0145,158,2,0.4903,0.4903,"COL9A2,MAPK3"
+Fcgamma receptor (FCGR) dependent phagocytosis(R),0.0146,159,2,0.4937,0.4937,"WAS,MAPK3"
+Extracellular matrix organization(R),0.0235,255,3,0.4964,0.4964,"COL9A2,MMP9,CEACAM8"
+Circadian Clock(R),0.0062,67,1,0.5028,0.5028,NFIL3
+Long-term potentiation(K),0.0062,67,1,0.5028,0.5028,MAPK3
+TCR signaling in naïve CD4+ T cells(N),0.0062,67,1,0.5028,0.5028,WAS
+ISG15 antiviral mechanism(R),0.0062,67,1,0.5028,0.5028,MAPK3
+Cytosolic sensors of pathogen-associated DNA (R),0.0062,67,1,0.5028,0.5028,S100A12
+Glycolysis / Gluconeogenesis(K),0.0062,67,1,0.5028,0.5028,HK3
+Interferon alpha/beta signaling(R),0.0063,68,1,0.508,0.508,SOCS3
+Epithelial cell signaling in Helicobacter pylori infection(K),0.0063,68,1,0.508,0.508,MAPK14
+Amphetamine addiction(K),0.0063,68,1,0.508,0.508,SLC18A2
+p75(NTR)-mediated signaling(N),0.0063,69,1,0.5131,0.5131,SORT1
+p53 signaling pathway(K),0.0063,69,1,0.5131,0.5131,GADD45A
+Metabolism of polyamines(R),0.0063,69,1,0.5131,0.5131,ARG1
+Protein processing in endoplasmic reticulum(K),0.0152,165,2,0.5133,0.5133,"UBE2J1,CKAP4"
+AP-1 transcription factor network(N),0.0064,70,1,0.5182,0.5182,MMP9
+RIG-I-like receptor signaling pathway(K),0.0064,70,1,0.5182,0.5182,MAPK14
+Signaling by FGFR2(R),0.0065,71,1,0.5232,0.5232,MAPK3
+Melanoma(K),0.0065,71,1,0.5232,0.5232,MAPK3
+Sphingolipid metabolism(R),0.0065,71,1,0.5232,0.5232,UGCG
+Inflammation mediated by chemokine and cytokine signaling pathway(P),0.0065,71,1,0.5232,0.5232,SOCS3
+PPAR signaling pathway(K),0.0066,72,1,0.5282,0.5282,ACSL1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)(K),0.0066,72,1,0.5282,0.5282,SLC8A1
+B cell receptor signaling pathway(K),0.0067,73,1,0.5331,0.5331,MAPK3
+Interferon gamma signaling(R),0.0067,73,1,0.5331,0.5331,SOCS3
+Chronic myeloid leukemia(K),0.0067,73,1,0.5331,0.5331,MAPK3
+Platinum drug resistance(K),0.0069,75,1,0.5428,0.5428,MAPK3
+Validated targets of C-MYC transcriptional activation(N),0.0069,75,1,0.5428,0.5428,MMP9
+Biosynthesis of amino acids(K),0.0069,75,1,0.5428,0.5428,ARG1
+p73 transcription factor network(N),0.0069,75,1,0.5428,0.5428,MAPK14
+Regulation of nuclear SMAD2/3 signaling(N),0.0071,77,1,0.5523,0.5523,SAP30
+RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways(R),0.0071,77,1,0.5523,0.5523,S100A12
+Cardiac muscle contraction(K),0.0072,78,1,0.5569,0.5569,SLC8A1
+Cellular response to heat stress(R),0.0072,78,1,0.5569,0.5569,MAPK3
+Bacterial invasion of epithelial cells(K),0.0072,78,1,0.5569,0.5569,WAS
+Alcoholism(K),0.0166,180,2,0.5603,0.5603,"SLC18A2,MAPK3"
+Regulation of nuclear beta catenin signaling and target gene transcription(N),0.0074,80,1,0.5661,0.5661,MMP9
+CXCR4-mediated signaling events(N),0.0074,80,1,0.5661,0.5661,MMP9
+Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)(N),0.0074,80,1,0.5661,0.5661,MAPK3
+ECM-receptor interaction(K),0.0075,82,1,0.5751,0.5751,COL9A2
+Peroxisome(K),0.0076,83,1,0.5795,0.5795,ACSL1
+Hypertrophic cardiomyopathy (HCM)(K),0.0076,83,1,0.5795,0.5795,SLC8A1
+TGF-beta signaling pathway(K),0.0077,84,1,0.5839,0.5839,MAPK3
+Generic Transcription Pathway(R),0.0455,494,5,0.5877,0.5877,"G6PD,TGFA,NRBF2,GADD45A,MAPK14"
+GPCR ligand binding(R),0.0363,395,4,0.5911,0.5911,"CXCL16,PROK2,ADM,LTB4R"
+Gap junction(K),0.0081,88,1,0.601,0.601,MAPK3
+"RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription(R)",0.0081,88,1,0.601,0.601,MAPK3
+"Fatty acid, triacylglycerol, and ketone body metabolism(R)",0.0179,195,2,0.6039,0.6039,"ACSL1,ABCA1"
+MicroRNAs in cancer(K),0.0275,299,3,0.6042,0.6042,"IRS2,MMP9,MARCKS"
+EPH-Ephrin signaling(R),0.0082,89,1,0.6052,0.6052,MMP9
+MAPK6/MAPK4 signaling(R),0.0082,89,1,0.6052,0.6052,CDC42EP3
+Dilated cardiomyopathy(K),0.0083,90,1,0.6093,0.6093,SLC8A1
+Salivary secretion(K),0.0083,90,1,0.6093,0.6093,CAMP
+"Lipid digestion, mobilization, and transport(R)",0.0084,91,1,0.6134,0.6134,ABCA1
+Integration of energy metabolism(R),0.0085,92,1,0.6174,0.6174,MARCKS
+Longevity regulating pathway(K),0.0087,94,1,0.6253,0.6253,IRS2
+Epstein-Barr virus infection(K),0.0188,204,2,0.6285,0.6285,"SPI1,MAPK14"
+Circadian entrainment(K),0.0088,96,1,0.6331,0.6331,MAPK3
+Chromatin modifying enzymes(R),0.019,206,2,0.6338,0.6338,"SAP30,PADI4"
+ErbB1 downstream signaling(N),0.0092,100,1,0.6482,0.6482,MAPK3
+Melanogenesis(K),0.0093,101,1,0.6519,0.6519,MAPK3
+Glucagon signaling pathway(K),0.0095,103,1,0.6591,0.6591,PYGL
+Pyrimidine metabolism(K),0.0097,105,1,0.6662,0.6662,UPP1
+SUMOylation(R),0.0098,106,1,0.6697,0.6697,PHC2
+Response to elevated platelet cytosolic Ca2+(R),0.0098,106,1,0.6697,0.6697,F5
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway(P),0.0099,108,1,0.6765,0.6765,RASGRP4
+Factors involved in megakaryocyte development and platelet production(R),0.0101,110,1,0.6833,0.6833,NFE2
+Alzheimer disease-presenilin pathway(P),0.0102,111,1,0.6866,0.6866,MMP9
+Cholinergic synapse(K),0.0102,111,1,0.6866,0.6866,MAPK3
+Glutamatergic synapse(K),0.0105,114,1,0.6963,0.6963,MAPK3
+Clathrin-mediated endocytosis(R),0.0108,117,1,0.7057,0.7057,REPS2
+TCR signaling(R),0.0113,123,1,0.7237,0.7237,WAS
+Binding and Uptake of Ligands by Scavenger Receptors(R),0.0114,124,1,0.7266,0.7266,CD163
+Cell cycle(K),0.0114,124,1,0.7266,0.7266,GADD45A
+Oocyte meiosis(K),0.0114,124,1,0.7266,0.7266,MAPK3
+Complement cascade(R),0.0117,127,1,0.7351,0.7351,CD59
+Natural killer cell mediated cytotoxicity(K),0.0124,135,1,0.7565,0.7565,MAPK3
+Measles(K),0.0125,136,1,0.759,0.759,TLR2
+Intra-Golgi and retrograde Golgi-to-ER traffic(R),0.013,141,1,0.7714,0.7714,RAB43
+Signaling by the B Cell Receptor (BCR)(R),0.0248,270,2,0.7741,0.7741,"IRS2,MAPK3"
+Phospholipase D signaling pathway(K),0.0133,144,1,0.7785,0.7785,MAPK3
+Cell adhesion molecules (CAMs)(K),0.0133,145,1,0.7808,0.7808,NTNG2
+Breast cancer(K),0.0134,146,1,0.7831,0.7831,MAPK3
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway(P),0.0135,147,1,0.7854,0.7854,PYGL
+Oxytocin signaling pathway(K),0.0146,159,1,0.8109,0.8109,MAPK3
+Ion channel transport(R),0.0156,169,1,0.8299,0.8299,ASPH
+Alzheimer's disease(K),0.0157,171,1,0.8334,0.8334,MAPK3
+Calcium signaling pathway(K),0.0167,182,1,0.8517,0.8517,SLC8A1
+Metabolic pathways(K),0.1165,1266,10,0.8607,0.8607,"G6PD,ACSL1,PGD,UGCG,ALPL,PYGL,HK3,UPP1,ARG1,B3GNT5"
+Signaling by Rho GTPases(R),0.0304,330,2,0.8608,0.8608,"WAS,MAPK3"
+cAMP signaling pathway(K),0.0184,200,1,0.8774,0.8774,MAPK3
+Viral carcinogenesis(K),0.0187,203,1,0.8813,0.8813,MAPK3
+Cell surface interactions at the vascular wall(R),0.0191,208,1,0.8874,0.8874,CEACAM8
+GPCR downstream signaling(R),0.0842,915,6,0.9214,0.9214,"CXCL16,PROK2,CSF2RA,GPR27,ADM,LTB4R"
+Neuroactive ligand-receptor interaction(K),0.0256,278,1,0.9465,0.9465,LTB4R
+Olfactory transduction(K),0.0385,418,1,0.9881,0.9881,SLC8A1

@@ -1,0 +1,504 @@
+Gene Set,Ratio of Protein In Gene Set,Number of Protein in Gene Set,Protein From Network,P-value,FDR,Nodes
+Neutrophil degranulation(R),0.0362,393,52,1.11E-16,5.58E-14,"GMFG,C3AR1,SLC11A1,FPR1,FPR2,S100A12,CD14,SIGLEC9,SERPINA1,HBB,MMP25,TIMP2,OLR1,CD53,FCER1G,MME,TLR2,CXCR1,ALOX5,CXCR2,LILRB2,LILRB3,QPCT,SIGLEC5,PLAU,COTL1,CD93,CD300A,CLEC4D,TYROBP,ADAM8,S100A9,S100A8,C5AR1,HSPA6,PTPRC,SELL,ITGAM,TNFAIP6,ITGB2,LRMP,FCAR,ITGAX,CR1,PLAUR,TNFRSF1B,MMP9,FGR,CHI3L1,DOCK2,FCGR2A,MNDA"
+Osteoclast differentiation(K),0.0121,132,19,6.19E-12,1.55E-09,"SPI1,JUNB,PIK3R5,FOS,IL1B,LILRA1,LILRA2,LILRA5,LILRB2,LILRB3,FOSB,NCF2,NCF4,TYROBP,SOCS3,FCGR3A,LCP2,FCGR2A,FCGR2B"
+Leishmaniasis(K),0.0067,73,13,1.22E-09,2.04E-07,"PRKCB,FOS,IL1B,TLR4,TLR2,PTGS2,NCF2,NCF4,ITGAM,ITGB2,FCGR3A,CR1,FCGR2A"
+Keratinization(R),0.0099,108,15,1.80E-09,2.25E-07,"SPRR2E,SPRR2A,SPRR2B,SPRR2D,SPRR1A,SPRR1B,SPRR3,KRT13,KRT17,KRT16,KRT14,KRT6B,KRT6A,DSC2,DSG3"
+Beta2 integrin cell surface interactions(N),0.0027,29,9,4.28E-09,4.28E-07,"ICAM3,PLAT,PLAU,TGFBI,ITGAM,ITGB2,ITGAX,PLAUR,FCGR2A"
+Staphylococcus aureus infection(K),0.0052,56,11,8.77E-09,7.28E-07,"C3AR1,FPR1,FPR2,SELPLG,C5AR1,ITGAM,ITGB2,FCAR,FCGR3A,FCGR2A,FCGR2B"
+Phagosome(K),0.0142,154,16,2.88E-08,2.05E-06,"CD14,OLR1,TLR4,TLR2,NCF2,NCF4,CORO1A,CLEC7A,ITGAM,ITGB2,FCAR,FCGR3A,ITGA5,THBS1,FCGR2A,FCGR2B"
+Tuberculosis(K),0.0165,179,17,3.79E-08,2.35E-06,"CD14,PLK3,FCER1G,IL1B,TLR4,TLR2,IL10RA,CLEC4E,CORO1A,CLEC7A,ITGAM,ITGB2,FCGR3A,ITGAX,CR1,FCGR2A,FCGR2B"
+Signaling by Interleukins(R),0.0423,460,27,8.24E-08,4.53E-06,"IL1RN,IL36A,JUNB,IL1R2,EREG,FPR1,FN1,IL36G,FOS,IL1B,HBEGF,PTGS2,ALOX5,IL10RA,OSM,CSF3R,IL18RAP,CSF2RB,RASGRP4,SOCS3,ITGAM,ITGB2,ITGAX,TNFRSF1B,MMP9,CCL4,CCL3"
+Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling(N),0.0039,42,9,9.81E-08,4.91E-06,"FPR1,FPR2,FN1,PLAU,ITGAM,ITGB2,PLAUR,MMP9,ITGA5"
+Complement and coagulation cascades(K),0.0073,79,11,2.70E-07,1.22E-05,"C3AR1,SERPINA1,PLAT,PLAU,C5AR1,ITGAM,ITGB2,THBD,ITGAX,CR1,PLAUR"
+amb2 Integrin signaling(N),0.0029,31,7,1.90E-06,7.49E-05,"HCK,SELPLG,PLAT,PLAU,ITGAM,ITGB2,MMP9"
+Chemokine signaling pathway(K),0.0172,187,15,1.97E-06,7.49E-05,"PREX1,PRKCB,PIK3R5,RAC2,HCK,CXCR4,CXCR1,CXCR2,CCL18,CCL24,CXCL13,FGR,DOCK2,CCL4,CCL3"
+Malaria(K),0.0045,49,8,3.77E-06,1.32E-04,"HBB,HBA1,IL1B,TLR4,TLR2,ITGB2,CR1,THBS1"
+Response to elevated platelet cytosolic Ca2+(R),0.0098,106,11,4.50E-06,1.49E-04,"SPARC,PRKCB,CD109,FN1,FERMT3,ECM1,SERPINA1,FLNA,PLEK,SRGN,THBS1"
+Cytokine-cytokine receptor interaction(K),0.0244,265,17,7.78E-06,2.41E-04,"IL1R2,IL1B,CXCR4,CXCR1,CXCR2,CCL18,CCL24,IL10RA,OSM,CSF3R,CXCL13,IL18RAP,CSF2RB,TNFRSF10C,TNFRSF1B,CCL4,CCL3"
+Legionellosis(K),0.0051,55,8,8.66E-06,2.51E-04,"CD14,IL1B,TLR4,TLR2,HSPA6,ITGAM,ITGB2,CR1"
+Amoebiasis(K),0.009,98,10,1.42E-05,3.83E-04,"PRKCB,IL1R2,PIK3R5,CD14,FN1,IL1B,TLR4,TLR2,ITGAM,ITGB2"
+Toll-like receptor signaling pathway(K),0.0098,106,10,2.75E-05,7.15E-04,"PIK3R5,CD14,FOS,IL1B,TLR8,TLR4,TLR2,SPP1,CCL4,CCL3"
+Beta1 integrin cell surface interactions(N),0.0061,66,8,3.15E-05,7.87E-04,"CD14,FN1,SPP1,PLAU,TGFBI,PLAUR,ITGA5,THBS1"
+IL8- and CXCR2-mediated signaling events(N),0.0031,34,6,4.12E-05,9.47E-04,"PRKCB,RAC2,HCK,CXCR2,FGR,DOCK2"
+Fc gamma R-mediated phagocytosis(K),0.0086,93,9,5.73E-05,1.26E-03,"PRKCB,PIK3R5,RAC2,HCK,PTPRC,FCGR3A,DOCK2,FCGR2A,FCGR2B"
+Hematopoietic cell lineage(K),0.0089,97,9,7.87E-05,1.65E-03,"IL1R2,CD14,CD37,MME,IL1B,CSF3R,ITGAM,CR1,ITGA5"
+Pertussis(K),0.007,76,8,8.36E-05,1.67E-03,"CD14,FOS,IL1B,TLR4,NLRP3,ITGAM,ITGB2,ITGA5"
+Endogenous TLR signaling(N),0.0023,25,5,1.02E-04,1.99E-03,"CD14,TLR4,TLR2,S100A9,S100A8"
+Proteoglycans in cancer(K),0.0189,205,13,1.05E-04,1.99E-03,"PRKCB,PIK3R5,FN1,TLR4,TLR2,HBEGF,FLNA,PLAU,PLAUR,MMP9,ITGA5,THBS1,LUM"
+Beta3 integrin cell surface interactions(N),0.004,43,6,1.47E-04,2.59E-03,"FN1,SPP1,PLAU,TGFBI,PLAUR,THBS1"
+Fc-epsilon receptor I signaling in mast cells(N),0.0057,62,7,1.52E-04,2.59E-03,"WIPF1,PRKCB,FCER1G,DUSP1,FOS,LCP2,FCGR2B"
+Calcineurin-regulated NFAT-dependent transcription in lymphocytes(N),0.0042,46,6,2.11E-04,3.59E-03,"JUNB,EGR1,EGR2,EGR3,FOS,PTGS2"
+Extracellular matrix organization(R),0.0235,255,14,2.51E-04,4.01E-03,"SPARC,ICAM3,KLK7,FN1,TIMP2,SPP1,ADAM8,ITGAM,ITGB2,ITGAX,MMP9,ITGA5,THBS1,LUM"
+Toll-Like Receptors Cascades(R),0.013,141,10,2.78E-04,4.41E-03,"S100A12,CD14,FOS,TLR8,TLR4,TLR2,S100A9,S100A8,ITGAM,ITGB2"
+Leukocyte transendothelial migration(K),0.0107,116,9,2.94E-04,4.41E-03,"PRKCB,PIK3R5,RAC2,CXCR4,NCF2,NCF4,ITGAM,ITGB2,MMP9"
+AP-1 transcription factor network(N),0.0064,70,7,3.16E-04,4.45E-03,"JUNB,EGR1,DUSP1,FOS,FOSB,PLAU,MMP9"
+Syndecan-4-mediated signaling events(N),0.0029,32,5,3.18E-04,4.45E-03,"FN1,CXCR4,MMP9,ITGA5,THBS1"
+NF-kappa B signaling pathway(K),0.0087,95,8,3.73E-04,5.23E-03,"PRKCB,CD14,IL1B,TLR4,PTGS2,PLAU,BCL2A1,CCL4"
+pertussis toxin-insensitive ccr5 signaling in macrophage(B),0.0007,8,3,4.43E-04,5.76E-03,"FOS,CXCR4,CCL4"
+Cell surface interactions at the vascular wall(R),0.0191,208,12,4.49E-04,5.84E-03,"FN1,OLR1,FCER1G,SLC7A5,SELPLG,SELL,ITGAM,ITGB2,TREM1,THBD,ITGAX,ITGA5"
+Validated transcriptional targets of AP1 family members Fra1 and Fra2(N),0.0034,37,5,6.12E-04,7.93E-03,"JUNB,PLAU,THBD,PLAUR,MMP9"
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell(R),0.0172,187,11,6.61E-04,7.93E-03,"ICAM3,SIGLEC9,LILRA1,LILRB2,CD300A,TYROBP,SELL,ITGB2,TREM1,FCGR3A,FCGR2B"
+Dissolution of Fibrin Clot(R),0.0009,10,3,8.43E-04,0.0101,"PLAT,PLAU,PLAUR"
+Natural killer cell mediated cytotoxicity(K),0.0124,135,9,8.62E-04,0.0103,"PRKCB,PIK3R5,RAC2,FCER1G,TYROBP,TNFRSF10C,ITGB2,FCGR3A,LCP2"
+TNF signaling pathway(K),0.0101,110,8,9.61E-04,0.0106,"JUNB,PIK3R5,FOS,IL1B,PTGS2,SOCS3,TNFRSF1B,MMP9"
+Salmonella infection(K),0.0079,86,7,1.05E-03,0.0115,"CD14,FOS,IL1B,TLR4,FLNA,CCL4,CCL3"
+Antimicrobial peptides(R),0.004,44,5,1.31E-03,0.0145,"SLC11A1,TLR2,S100A9,S100A8,DEFA3"
+Signal regulatory protein (SIRP) family interactions(R),0.0011,12,3,1.42E-03,0.0156,"SKAP2,TYROBP,FYB"
+FGF signaling pathway(N),0.0043,47,5,1.75E-03,0.0175,"FOS,SPP1,PLAU,PLAUR,MMP9"
+IL6-mediated signaling events(N),0.0043,47,5,1.75E-03,0.0175,"JUNB,FOS,HCK,SOCS3,PTPRE"
+Transcriptional misregulation in cancer(K),0.0166,180,10,1.75E-03,0.0175,"SPI1,IL1R2,CD14,PLAT,PLAU,DEFA3,NR4A3,ITGAM,MMP9,BCL2A1"
+IL8- and CXCR1-mediated signaling events(N),0.0026,28,4,1.77E-03,0.0177,"PRKCB,HCK,CXCR1,FGR"
+Fc epsilon RI signaling pathway(K),0.0064,70,6,1.84E-03,0.0181,"PIK3R5,RAC2,FCER1G,ALOX5,LCP2,ALOX5AP"
+Osteopontin-mediated events(N),0.0027,29,4,2.01E-03,0.0181,"FOS,SPP1,PLAU,MMP9"
+GPVI-mediated activation cascade(R),0.0045,49,5,2.10E-03,0.0189,"PIK3R5,RAC2,FCER1G,CSF2RB,LCP2"
+B cell receptor signaling pathway(K),0.0067,73,6,2.27E-03,0.0204,"PRKCB,PIK3R5,RAC2,FOS,LILRB3,FCGR2B"
+ErbB receptor signaling network(N),0.0014,15,3,2.66E-03,0.0229,"EREG,AREG,HBEGF"
+roles of ÃŸ arrestin dependent recruitment of src kinases in gpcr signaling(B),0.0029,32,4,2.86E-03,0.0229,"FPR1,HCK,CXCR4,CCL4"
+toll-like receptor pathway(B),0.0029,32,4,2.86E-03,0.0229,"CD14,FOS,TLR4,TLR2"
+Alpha4 beta1 integrin signaling events(N),0.003,33,4,3.19E-03,0.0255,"CD14,FN1,SPP1,THBS1"
+Beta5 beta6 beta7 and beta8 integrin cell surface interactions(N),0.0016,17,3,3.78E-03,0.0302,"FN1,PLAU,PLAUR"
+African trypanosomiasis(K),0.0032,35,4,3.93E-03,0.0314,"PRKCB,HBB,HBA1,IL1B"
+ATF-2 transcription factor network(N),0.0053,58,5,4.28E-03,0.0342,"JUNB,DUSP1,FOS,PLAU,SOCS3"
+Arachidonic acid metabolism(R),0.0033,36,4,4.34E-03,0.0347,"PTGS2,ALOX5,TBXAS1,ALOX5AP"
+IL12-mediated signaling events(N),0.0056,61,5,5.27E-03,0.0376,"FOS,IL1B,IL18RAP,CCL4,CCL3"
+Hepatitis B(K),0.0134,146,8,5.38E-03,0.0376,"PRKCB,PIK3R5,EGR2,EGR3,FOS,TLR4,TLR2,MMP9"
+Rap1 signaling pathway(K),0.0195,212,10,5.52E-03,0.0387,"PRKCB,FPR1,PIK3R5,RAC2,APBB1IP,ITGAM,ITGB2,LCP2,THBS1,FYB"
+Toxoplasmosis(K),0.0109,118,7,5.97E-03,0.0418,"PIK3R5,TLR4,TLR2,ALOX5,IL10RA,PPIF,HSPA6"
+Rheumatoid arthritis(K),0.0083,90,6,6.20E-03,0.0434,"FOS,IL1B,TLR4,TLR2,ITGB2,CCL3"
+activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor(B),0.0038,41,4,6.81E-03,0.0477,"FPR1,CXCR4,PTPRC,CCL4"
+HIF-1-alpha transcription factor network(N),0.006,65,5,6.84E-03,0.0479,"ADM,FOS,CXCR4,PFKFB3,ITGB2"
+Platelet activation(K),0.0112,122,7,7.10E-03,0.0497,"PIK3R5,FERMT3,FCER1G,APBB1IP,TBXAS1,LCP2,FCGR2A"
+Erythrocytes take up oxygen and release carbon dioxide(R),0.0006,7,2,7.30E-03,0.0511,"HBB,HBA1"
+TCR signaling in naïve CD4+ T cells(N),0.0062,67,5,7.74E-03,0.0542,"PRKCB,FLNA,PTPRC,LCP2,FYB"
+Erythrocytes take up carbon dioxide and release oxygen(R),0.0007,8,2,9.42E-03,0.0565,"HBB,HBA1"
+fmlp induced chemokine gene expression in hmc-1 cells(B),0.0022,24,3,9.70E-03,0.0582,"PRKCB,FPR1,NCF2"
+Alpha9 beta1 integrin signaling events(N),0.0022,24,3,9.70E-03,0.0582,"FN1,SPP1,ADAM8"
+Inflammation mediated by chemokine and cytokine signaling pathway(P),0.0065,71,5,9.77E-03,0.0586,"PREX1,PRKCB,RAC2,SOCS3,ALOX5AP"
+AGE-RAGE signaling pathway in diabetic complications(K),0.0093,101,6,0.0106,0.0633,"PRKCB,PIK3R5,EGR1,FN1,IL1B,THBD"
+Plasminogen activating cascade(P),0.0008,9,2,0.0118,0.0707,"PLAT,PLAUR"
+activation of camp-dependent protein kinase pka(B),0.0024,26,3,0.012,0.0708,"FPR1,CXCR4,CCL4"
+ÃŸ-arrestins in gpcr desensitization(B),0.0024,26,3,0.012,0.0708,"FPR1,CXCR4,CCL4"
+Chagas disease (American trypanosomiasis)(K),0.0096,104,6,0.012,0.0708,"PIK3R5,FOS,IL1B,TLR4,TLR2,CCL3"
+Measles(K),0.0125,136,7,0.0123,0.0708,"PIK3R5,IL1B,TLR4,TLR2,HSPA6,TNFRSF10C,FCGR2B"
+GPCR ligand binding(R),0.0363,395,14,0.013,0.0708,"C3AR1,PROK2,FPR1,FPR2,ADM,CXCR4,CXCR1,CXCR2,GPR65,CXCL13,C5AR1,HCAR2,HCAR3,HRH2"
+Calcium signaling in the CD4+ TCR pathway(N),0.0025,27,3,0.0133,0.0708,"JUNB,FOS,PTGS2"
+Glucocorticoid receptor regulatory network(N),0.0072,78,5,0.0142,0.0708,"SPI1,EGR1,FOS,KRT17,KRT14"
+hemoglobins chaperone(B),0.0009,10,2,0.0144,0.0719,"HBB,HBA1"
+il22 soluble receptor signaling pathway(B),0.0009,10,2,0.0144,0.0719,"IL10RA,SOCS3"
+activation of pkc through g-protein coupled receptors(B),0.0009,10,2,0.0144,0.0719,"PRKCB,CCL4"
+role of ÃŸ-arrestins in the activation and targeting of map kinases(B),0.0026,28,3,0.0146,0.0731,"FPR1,CXCR4,CCL4"
+Influenza A(K),0.0161,175,8,0.0148,0.0742,"PRKCB,PIK3R5,IL1B,TLR4,SOCS3,NLRP3,HSPA6,TNFRSF10C"
+Signaling events mediated by PTP1B(N),0.0048,52,4,0.0151,0.0757,"HCK,SOCS3,FGR,FCGR2A"
+CXCR4-mediated signaling events(N),0.0074,80,5,0.0156,0.0781,"HCK,CXCR4,PTPRC,MMP9,FGR"
+Regulation of actin cytoskeleton(K),0.0197,214,9,0.0164,0.0821,"PIK3R5,CD14,FN1,RAC2,SSH2,ITGAM,ITGB2,ITGAX,ITGA5"
+Alpha-synuclein signaling(N),0.0028,30,3,0.0175,0.0876,"KLK6,HCK,FGR"
+Interleukin signaling pathway(P),0.0051,55,4,0.0182,0.091,"SPI1,FOS,CXCR1,IL10RA"
+MAPK signaling pathway(K),0.0235,255,10,0.0182,0.091,"PRKCB,IL1R2,CD14,RAC2,DUSP1,FOS,IL1B,FLNA,RASGRP4,HSPA6"
+Regulation of p38-alpha and p38-beta(N),0.0029,31,3,0.0191,0.0938,"DUSP1,HCK,FGR"
+Detoxification of Reactive Oxygen Species(R),0.0029,31,3,0.0191,0.0938,"NCF2,NCF4,SOD2"
+"ROS, RNS production in phagocytes(R)",0.0029,32,3,0.0207,0.0938,"SLC11A1,NCF2,NCF4"
+ErbB signaling pathway(K),0.0081,88,5,0.0225,0.0938,"PRKCB,EREG,PIK3R5,AREG,HBEGF"
+B cell activation(P),0.0054,59,4,0.0228,0.0938,"PRKCB,RAC2,FOS,PTPRC"
+il 3 signaling pathway(B),0.0012,13,2,0.0235,0.0938,"FOS,CSF2RB"
+cadmium induces dna synthesis and proliferation in macrophages(B),0.0012,13,2,0.0235,0.0938,"PRKCB,FOS"
+IL1-mediated signaling events(N),0.0031,34,3,0.0242,0.0969,"IL1RN,IL1R2,IL1B"
+VEGF signaling pathway(K),0.0056,61,4,0.0254,0.1015,"PRKCB,PIK3R5,RAC2,PTGS2"
+Integrin signalling pathway(P),0.0145,158,7,0.0255,0.102,"FN1,RAC2,FLNA,ITGAM,ITGB2,ITGAX,ITGA5"
+signal transduction through il1r(B),0.0032,35,3,0.0261,0.1043,"IL1RN,FOS,IL1B"
+JNK signaling in the CD4+ TCR pathway(N),0.0013,14,2,0.0269,0.1076,"PRKCB,LCP2"
+oxidative stress induced gene expression via nrf2(B),0.0013,14,2,0.0269,0.1076,"PRKCB,FOS"
+Ras signaling in the CD4+ TCR pathway(N),0.0013,14,2,0.0269,0.1076,"PRKCB,FOS"
+chrebp regulation by carbohydrates and camp(B),0.0033,36,3,0.028,0.1121,"FPR1,CXCR4,CCL4"
+Downstream signaling in naïve CD8+ T cells(N),0.0059,64,4,0.0295,0.118,"JUNB,PRKCB,EGR1,FOS"
+IL23-mediated signaling events(N),0.0034,37,3,0.03,0.1201,"IL1B,IL18RAP,SOCS3"
+GMCSF-mediated signaling events(N),0.0034,37,3,0.03,0.1201,"FOS,OSM,CSF2RB"
+Focal adhesion(K),0.0185,201,8,0.0305,0.1221,"PRKCB,PIK3R5,FN1,RAC2,SPP1,FLNA,ITGA5,THBS1"
+Semaphorin interactions(R),0.006,65,4,0.031,0.1239,"RAC2,PLXNC1,TYROBP,PTPRC"
+Inflammatory bowel disease (IBD)(K),0.006,65,4,0.031,0.1239,"IL1B,TLR4,TLR2,IL18RAP"
+BCR signaling pathway(N),0.006,65,4,0.031,0.1239,"FOS,PTPRC,BCL2A1,FCGR2B"
+Direct p53 effectors(N),0.0121,132,6,0.0336,0.1343,"PLK3,BTG2,DUSP1,SPP1,TNFRSF10C,BCL2A1"
+Estrogen signaling pathway(K),0.0092,100,5,0.0359,0.1437,"PIK3R5,FOS,HBEGF,HSPA6,MMP9"
+Ligand-dependent caspase activation(R),0.0016,17,2,0.0383,0.1532,"CD14,TLR4"
+Bladder cancer(K),0.0038,41,3,0.0388,0.1552,"HBEGF,MMP9,THBS1"
+C-type lectin receptors (CLRs)(R),0.0128,139,6,0.0414,0.158,"ICAM3,FCER1G,IL1B,CLEC4D,CLEC4E,CLEC7A"
+ion channels and their functional role in vascular endothelium(B),0.004,43,3,0.0436,0.158,"FPR1,CXCR4,CCL4"
+Cell adhesion molecules (CAMs)(K),0.0133,145,6,0.049,0.158,"ICAM3,SELPLG,PTPRC,SELL,ITGAM,ITGB2"
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate(K),0.0018,20,2,0.0512,0.158,"CHST11,CHST15"
+hiv-1 defeats host-mediated resistance by cem15(B),0.0003,3,1,0.0527,0.158,CXCR4
+keratinocyte differentiation(B),0.0043,47,3,0.0541,0.1624,"PRKCB,FOS,PLAT"
+t cell receptor signaling pathway(B),0.0044,48,3,0.0569,0.1708,"PRKCB,FOS,NCF2"
+T cell activation(P),0.0075,81,4,0.0601,0.1804,"RAC2,FOS,PTPRC,LCP2"
+EGF receptor signaling pathway(P),0.0075,82,4,0.0623,0.187,"PRKCB,AREG,RAC2,HBEGF"
+ECM-receptor interaction(K),0.0075,82,4,0.0623,0.187,"FN1,SPP1,ITGA5,THBS1"
+Jak-STAT signaling pathway(K),0.0145,158,6,0.0681,0.2043,"PIK3R5,IL10RA,OSM,CSF3R,CSF2RB,SOCS3"
+inhibition of matrix metalloproteinases(B),0.0004,4,1,0.0696,0.2088,TIMP2
+fosb gene expression and drug abuse(B),0.0004,4,1,0.0696,0.2088,FOSB
+nfkb activation by nontypeable hemophilus influenzae(B),0.0022,24,2,0.0704,0.2112,"IL1B,TLR2"
+Ephrin B reverse signaling(N),0.0022,24,2,0.0704,0.2112,"HCK,FGR"
+Thromboxane A2 receptor signaling(N),0.005,54,3,0.0751,0.2226,"PRKCB,HCK,FGR"
+TCR signaling in naïve CD8+ T cells(N),0.005,54,3,0.0751,0.2226,"PRKCB,PTPRC,LCP2"
+IL2-mediated signaling events(N),0.005,54,3,0.0751,0.2226,"PRKCB,FOS,SOCS3"
+VEGFR3 signaling in lymphatic endothelium(N),0.0023,25,2,0.0755,0.2226,"FN1,ITGA5"
+fc epsilon receptor i signaling in mast cells(B),0.0023,25,2,0.0755,0.2226,"FCER1G,FOS"
+Glypican 1 network(N),0.0023,25,2,0.0755,0.2226,"HCK,FGR"
+tpo signaling pathway(B),0.0023,25,2,0.0755,0.2226,"PRKCB,FOS"
+bcr signaling pathway(B),0.0024,26,2,0.0807,0.2226,"PRKCB,FOS"
+IL3-mediated signaling events(N),0.0024,26,2,0.0807,0.2226,"OSM,CSF2RB"
+pdgf signaling pathway(B),0.0024,26,2,0.0807,0.2226,"PRKCB,FOS"
+Integrin alphaIIb beta3 signaling(R),0.0025,27,2,0.0861,0.2226,"FN1,APBB1IP"
+PLK3 signaling events(N),0.0005,5,1,0.0863,0.2226,PLK3
+NOD-like receptor signaling pathway(K),0.0156,170,6,0.0891,0.2226,"NAMPT,MEFV,IL1B,TLR4,NLRP12,NLRP3"
+HTLV-I infection(K),0.0237,258,8,0.0972,0.2226,"SPI1,IL1R2,PIK3R5,EGR1,EGR2,FOS,ZFP36,ITGB2"
+Signaling by PTK6(R),0.0056,61,3,0.0991,0.2226,"EREG,HBEGF,SOCS3"
+platelet amyloid precursor protein pathway(B),0.0006,6,1,0.1026,0.2226,PLAT
+Blood coagulation(P),0.0006,6,1,0.1026,0.2226,PLAU
+GPCR downstream signaling(R),0.0842,915,22,0.1026,0.2226,"PREX1,C3AR1,PROK2,FPR1,FPR2,PIK3R5,OR2J3,ADM,RAC2,CXCR4,CXCR1,CXCR2,GPR65,CXCL13,RGS2,C5AR1,CSF2RB,HCAR2,HCAR3,HRH2,PDE4B,RGS18"
+Endocrine resistance(K),0.009,98,4,0.1027,0.2226,"PIK3R5,FOS,HBEGF,MMP9"
+Surfactant metabolism(R),0.0028,30,2,0.1027,0.2226,"SLC34A2,CSF2RB"
+Colorectal cancer(K),0.0057,62,3,0.1028,0.2226,"PIK3R5,RAC2,FOS"
+Arachidonic acid metabolism(K),0.0057,62,3,0.1028,0.2226,"PTGS2,ALOX5,TBXAS1"
+Pathways in cancer(K),0.0365,397,11,0.1063,0.2226,"SPI1,PRKCB,PIK3R5,FN1,RAC2,FOS,CXCR4,PTGS2,CSF3R,RASGRP4,MMP9"
+IL4-mediated signaling events(N),0.0058,63,3,0.1065,0.2226,"SPI1,EGR2,SOCS3"
+LPA receptor mediated events(N),0.0058,63,3,0.1065,0.2226,"FOS,HBEGF,MMP9"
+ErbB1 downstream signaling(N),0.0092,100,4,0.1084,0.2226,"EGR1,DUSP1,FOS,ZFP36"
+IL12 signaling mediated by STAT4(N),0.0029,31,2,0.1084,0.2226,"FOS,IL18RAP"
+role of egf receptor transactivation by gpcrs in cardiac hypertrophy(B),0.0029,31,2,0.1084,0.2226,"PRKCB,FOS"
+EPHA forward signaling(N),0.0029,31,2,0.1084,0.2226,"HCK,FGR"
+Longevity regulating pathway - multiple species(K),0.0059,64,3,0.1102,0.2226,"PIK3R5,HSPA6,SOD2"
+Apoptosis(K),0.0129,140,5,0.1109,0.2226,"PIK3R5,FOS,CSF2RB,TNFRSF10C,BCL2A1"
+Choline metabolism in cancer(K),0.0093,101,4,0.1113,0.2226,"PRKCB,PIK3R5,RAC2,FOS"
+HIF-1 signaling pathway(K),0.0095,103,4,0.1173,0.2345,"PRKCB,PIK3R5,TLR4,PFKFB3"
+cbl mediated ligand-induced downregulation of egf receptors pathway(B),0.0006,7,1,0.1186,0.2373,PRKCB
+Trk receptor signaling mediated by the MAPK pathway(N),0.003,33,2,0.1201,0.2402,"EGR1,FOS"
+angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling(B),0.003,33,2,0.1201,0.2402,"PRKCB,FOS"
+Phospholipase D signaling pathway(K),0.0133,144,5,0.1209,0.2417,"PIK3R5,FCER1G,CXCR1,CXCR2,CYTH4"
+T cell receptor signaling pathway(K),0.0097,105,4,0.1233,0.2466,"PIK3R5,FOS,PTPRC,LCP2"
+Interferon alpha/beta signaling(R),0.0063,68,3,0.1258,0.2515,"IFITM2,EGR1,SOCS3"
+Epithelial cell signaling in Helicobacter pylori infection(K),0.0063,68,3,0.1258,0.2515,"HBEGF,CXCR1,CXCR2"
+Amphetamine addiction(K),0.0063,68,3,0.1258,0.2515,"PRKCB,FOS,FOSB"
+Prion diseases(K),0.0032,35,2,0.1321,0.2642,"EGR1,IL1B"
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway(P),0.0099,108,4,0.1327,0.2654,"PRKCB,RGS2,RASGRP4,RGS18"
+Adipocytokine signaling pathway(K),0.0064,70,3,0.1338,0.2676,"ACSL1,SOCS3,TNFRSF1B"
+tsp-1 induced apoptosis in microvascular endothelial cell(B),0.0007,8,1,0.1344,0.2679,FOS
+inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages(B),0.0033,36,2,0.1382,0.2679,"CD14,TLR4"
+Prolactin signaling pathway(K),0.0066,72,3,0.142,0.2679,"PIK3R5,FOS,SOCS3"
+Platelet Aggregation (Plug Formation)(R),0.0034,37,2,0.1443,0.2679,"FN1,APBB1IP"
+Serotonergic synapse(K),0.0104,113,4,0.1489,0.2679,"PRKCB,DUSP1,PTGS2,ALOX5"
+btg family proteins and cell cycle regulation(B),0.0008,9,1,0.1499,0.2679,BTG2
+Regulation of RAC1 activity(N),0.0035,38,2,0.1505,0.2679,"PREX1,DOCK2"
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways(R)",0.0035,38,2,0.1505,0.2679,"MEFV,NLRP3"
+cAMP signaling pathway(K),0.0184,200,6,0.1551,0.2679,"PIK3R5,RAC2,FOS,HCAR2,HCAR3,PDE4B"
+Aldosterone-regulated sodium reabsorption(K),0.0036,39,2,0.1568,0.2679,"PRKCB,PIK3R5"
+Fcgamma receptor (FCGR) dependent phagocytosis(R),0.0146,159,5,0.1617,0.2679,"WIPF1,HCK,FCGR3A,FGR,FCGR2A"
+Oxytocin signaling pathway(K),0.0146,159,5,0.1617,0.2679,"PRKCB,PIK3R5,FOS,PTGS2,RGS2"
+Class I PI3K signaling events(N),0.0037,40,2,0.1631,0.2679,"HCK,FGR"
+overview of telomerase protein component gene htert transcriptional regulation(B),0.0009,10,1,0.1651,0.2679,MXD1
+GP1b-IX-V activation signalling(R),0.0009,10,1,0.1651,0.2679,FLNA
+cxcr4 signaling pathway(B),0.0009,10,1,0.1651,0.2679,CXCR4
+cardiac protection against ros(B),0.0009,10,1,0.1651,0.2679,SOD2
+g-protein signaling through tubby proteins(B),0.0009,10,1,0.1651,0.2679,CCL4
+g-secretase mediated erbb4 signaling pathway(B),0.0009,10,1,0.1651,0.2679,PRKCB
+effects of calcineurin in keratinocyte differentiation(B),0.0009,10,1,0.1651,0.2679,PRKCB
+PI3K-Akt signaling pathway(K),0.0314,341,9,0.1655,0.2679,"PIK3R5,FN1,TLR4,TLR2,SPP1,OSM,CSF3R,ITGA5,THBS1"
+Bacterial invasion of epithelial cells(K),0.0072,78,3,0.1676,0.2679,"PIK3R5,FN1,ITGA5"
+Fat digestion and absorption(K),0.0038,41,2,0.1695,0.2679,"ABCA1,DGAT2"
+PDGFR-beta signaling pathway(N),0.011,120,4,0.1728,0.2679,"FOS,HCK,SLA,FGR"
+Sphingolipid signaling pathway(K),0.011,120,4,0.1728,0.2679,"PRKCB,PIK3R5,RAC2,FCER1G"
+Signaling by ERBB4(R),0.0039,42,2,0.1759,0.2679,"EREG,HBEGF"
+FOXA1 transcription factor network(N),0.0039,42,2,0.1759,0.2679,"SERPINA1,FOS"
+Plasma membrane estrogen receptor signaling(N),0.0039,42,2,0.1759,0.2679,"HBEGF,MMP9"
+Signaling by ERBB2(R),0.004,43,2,0.1823,0.2679,"EREG,HBEGF"
+il-2 receptor beta chain in t cell activation(B),0.004,44,2,0.1888,0.2679,"FOS,SOCS3"
+attenuation of gpcr signaling(B),0.0011,12,1,0.1947,0.2679,PRKCB
+"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism(R)",0.0011,12,1,0.1947,0.2679,SLC7A5
+trka receptor signaling pathway(B),0.0011,12,1,0.1947,0.2679,PRKCB
+repression of pain sensation by the transcriptional regulator dream(B),0.0011,12,1,0.1947,0.2679,FOS
+il-10 anti-inflammatory signaling pathway(B),0.0011,12,1,0.1947,0.2679,IL10RA
+erythropoietin mediated neuroprotection through nf-kb(B),0.0011,12,1,0.1947,0.2679,SOD2
+Carbohydrate digestion and absorption(K),0.0042,46,2,0.2018,0.2679,"PRKCB,PIK3R5"
+Small cell lung cancer(K),0.0079,86,3,0.2036,0.2679,"PIK3R5,FN1,PTGS2"
+Integrins in angiogenesis(N),0.0043,47,2,0.2083,0.2679,"FN1,SPP1"
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism(R),0.0012,13,1,0.2091,0.2679,ACSL1
+fibrinolysis pathway(B),0.0012,13,1,0.2091,0.2679,PLAT
+Metabolism of Angiotensinogen to Angiotensins(R),0.0012,13,1,0.2091,0.2679,MME
+Platelet Adhesion to exposed collagen(R),0.0012,13,1,0.2091,0.2679,FCER1G
+Fatty acid biosynthesis(K),0.0012,13,1,0.2091,0.2679,ACSL1
+Advanced glycosylation endproduct receptor signaling(R),0.0012,13,1,0.2091,0.2679,S100A12
+Post-translational modification: synthesis of GPI-anchored proteins(R),0.0081,88,3,0.2129,0.2679,"CD109,LYPD3,PLAUR"
+Type II diabetes mellitus(K),0.0044,48,2,0.2149,0.2679,"PIK3R5,SOCS3"
+Axon guidance(K),0.0163,177,5,0.2169,0.2679,"PIK3R5,RAC2,CXCR4,PLXNC1,SSH2"
+IL5-mediated signaling events(N),0.0013,14,1,0.2233,0.2679,CSF2RB
+Ovarian steroidogenesis(K),0.0046,50,2,0.2281,0.2679,"PTGS2,ALOX5"
+Angiopoietin receptor Tie2-mediated signaling(N),0.0046,50,2,0.2281,0.2679,"FN1,ITGA5"
+calcium signaling by hbx of hepatitis b virus(B),0.0014,15,1,0.2372,0.2679,FOS
+Arf6 downstream pathway(N),0.0014,15,1,0.2372,0.2679,PLAUR
+aspirin blocks signaling pathway involved in platelet activation(B),0.0014,15,1,0.2372,0.2679,PRKCB
+Interferon-gamma signaling pathway(P),0.0014,15,1,0.2372,0.2679,SOCS3
+Gastrin-CREB signalling pathway via PKC and MAPK(R),0.0346,376,9,0.2402,0.2679,"PROK2,EREG,FPR2,HBEGF,GPR65,RGS2,CSF2RB,RASGRP4,RGS18"
+Mineral absorption(K),0.0048,52,2,0.2414,0.2679,"SLC34A2,SLC11A1"
+Herpes simplex infection(K),0.017,185,5,0.2431,0.2679,"PILRA,FOS,IL1B,TLR2,SOCS3"
+bone remodeling(B),0.0015,16,1,0.2508,0.2679,FOS
+nerve growth factor pathway (ngf)(B),0.0015,16,1,0.2508,0.2679,FOS
+the igf-1 receptor and longevity(B),0.0015,16,1,0.2508,0.2679,SOD2
+role of mal in rho-mediated activation of srf(B),0.0015,16,1,0.2508,0.2679,MAL
+Class I MHC mediated antigen processing & presentation(R),0.0174,189,5,0.2565,0.2679,"CD14,TLR4,TLR2,NCF2,NCF4"
+Transport of inorganic cations/anions and amino acids/oligopeptides(R),0.0051,55,2,0.2613,0.2679,"SLC34A2,SLC7A5"
+Endothelin signaling pathway(P),0.0051,55,2,0.2613,0.2679,"PRKCB,PTGS2"
+Pathogenic Escherichia coli infection(K),0.0051,55,2,0.2613,0.2679,"CD14,TLR4"
+Signaling by VEGF(R),0.0264,287,7,0.2624,0.2679,"PRKCB,EREG,HBEGF,NCF2,NCF4,CSF2RB,RASGRP4"
+Syndecan-1-mediated signaling events(N),0.0016,17,1,0.2642,0.2679,MMP9
+gata3 participate in activating the th2 cytokine genes expression(B),0.0016,17,1,0.2642,0.2679,JUNB
+nitric oxide signaling pathway(B),0.0016,17,1,0.2642,0.2679,PRKCB
+Inflammatory mediator regulation of TRP channels(K),0.0091,99,3,0.2653,0.2679,"PRKCB,PIK3R5,IL1B"
+Regulation of lipolysis in adipocytes(K),0.0052,56,2,0.2679,0.2679,"PIK3R5,PTGS2"
+Non-small cell lung cancer(K),0.0052,56,2,0.2679,0.2679,"PRKCB,PIK3R5"
+Acute myeloid leukemia(K),0.0052,57,2,0.2746,0.2746,"SPI1,PIK3R5"
+S1P1 pathway(N),0.0017,18,1,0.2774,0.2774,PTGS2
+mets affect on macrophage differentiation(B),0.0017,18,1,0.2774,0.2774,FOS
+"Synthesis, secretion, and deacylation of Ghrelin(R)",0.0017,18,1,0.2774,0.2774,PLA2G7
+Viral myocarditis(K),0.0054,59,2,0.2879,0.2879,"RAC2,ITGB2"
+Cellular roles of Anthrax toxin(N),0.0017,19,1,0.2904,0.2904,IL1B
+sprouty regulation of tyrosine kinase signals(B),0.0017,19,1,0.2904,0.2904,PTPRC
+cystic fibrosis transmembrane conductance regulator (cftr) and beta 2 adrenergic receptor (b2ar) pathway(B),0.0017,19,1,0.2904,0.2904,CCL4
+Validated targets of C-MYC transcriptional repression(N),0.0055,60,2,0.2945,0.2945,"SPI1,SLC11A1"
+MicroRNAs in cancer(K),0.0275,299,7,0.2959,0.2959,"PRKCB,ZEB2,PTGS2,PLAU,MMP9,ITGA5,THBS1"
+pkc-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase(B),0.0018,20,1,0.3031,0.3031,PRKCB
+regulation of bad phosphorylation(B),0.0018,20,1,0.3031,0.3031,CSF2RB
+Endothelins(N),0.0057,62,2,0.3078,0.3078,"PRKCB,FOS"
+Epstein-Barr virus infection(K),0.0188,204,5,0.3082,0.3082,"SPI1,PIK3R5,IL10RA,HSPA6,FGR"
+Insulin resistance(K),0.01,109,3,0.3141,0.3141,"PRKCB,PIK3R5,SOCS3"
+egf signaling pathway(B),0.0019,21,1,0.3155,0.3155,PRKCB
+growth hormone signaling pathway(B),0.0019,21,1,0.3155,0.3155,PRKCB
+igf-1 signaling pathway(B),0.0019,21,1,0.3155,0.3155,FOS
+PDGFR-alpha signaling pathway(N),0.0019,21,1,0.3155,0.3155,FOS
+nf-kb signaling pathway(B),0.0019,21,1,0.3155,0.3155,TLR4
+Factors involved in megakaryocyte development and platelet production(R),0.0101,110,3,0.319,0.319,"NFE2,HBB,DOCK11"
+Cytosolic DNA-sensing pathway(K),0.0059,64,2,0.321,0.321,"IL1B,CCL4"
+Cholinergic synapse(K),0.0102,111,3,0.3239,0.3239,"PRKCB,PIK3R5,FOS"
+Signaling by Leptin(R),0.0192,209,5,0.3258,0.3258,"EREG,HBEGF,CSF2RB,RASGRP4,SOCS3"
+inhibition of cellular proliferation by gleevec(B),0.002,22,1,0.3278,0.3278,FOS
+ccr3 signaling in eosinophils(B),0.002,22,1,0.3278,0.3278,PRKCB
+signaling pathway from g-protein families(B),0.002,22,1,0.3278,0.3278,PRKCB
+TRAIL signaling pathway(N),0.002,22,1,0.3278,0.3278,TNFRSF10C
+Endocytosis(K),0.0239,260,6,0.3291,0.3291,"WIPF1,CXCR4,CXCR1,CXCR2,HSPA6,CYTH4"
+Glioma(K),0.0061,66,2,0.3341,0.3341,"PRKCB,PIK3R5"
+Pancreatic cancer(K),0.0061,66,2,0.3341,0.3341,"PIK3R5,RAC2"
+links between pyk2 and map kinases(B),0.0021,23,1,0.3398,0.3398,PRKCB
+Renin-angiotensin system(K),0.0021,23,1,0.3398,0.3398,MME
+regulation of eif-4e and p70s6 kinase(B),0.0021,23,1,0.3398,0.3398,PRKCB
+role of mef2d in t-cell apoptosis(B),0.0021,23,1,0.3398,0.3398,PRKCB
+Signaling events mediated by PRL(N),0.0021,23,1,0.3398,0.3398,EGR1
+Circadian Clock(R),0.0062,67,2,0.3406,0.3406,"NAMPT,NFIL3"
+Central carbon metabolism in cancer(K),0.0062,67,2,0.3406,0.3406,"PIK3R5,SLC7A5"
+Regulation of Telomerase(N),0.0063,68,2,0.3472,0.3472,"FOS,MXD1"
+corticosteroids and cardioprotection(B),0.0022,24,1,0.3517,0.3517,CCL4
+transcription factor creb and its extracellular signals(B),0.0022,24,1,0.3517,0.3517,PRKCB
+Growth hormone receptor signaling(R),0.0022,24,1,0.3517,0.3517,SOCS3
+Nongenotropic Androgen signaling(N),0.0023,25,1,0.3633,0.3633,FOS
+ras-independent pathway in nk cell-mediated cytotoxicity(B),0.0023,25,1,0.3633,0.3633,FCGR3A
+S1P3 pathway(N),0.0023,25,1,0.3633,0.3633,CXCR4
+DAP12 interactions(R),0.0297,323,7,0.3653,0.3653,"EREG,HBEGF,TYROBP,CSF2RB,RASGRP4,TREM1,LCP2"
+PPAR signaling pathway(K),0.0066,72,2,0.373,0.373,"ACSL1,OLR1"
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)(K),0.0066,72,2,0.373,0.373,"DSC2,ITGA5"
+S1P2 pathway(N),0.0024,26,1,0.3747,0.3747,FOS
+RXR and RAR heterodimerization with other nuclear receptor(N),0.0024,26,1,0.3747,0.3747,ABCA1
+PI3 kinase pathway(P),0.0024,26,1,0.3747,0.3747,PIK3R5
+IL27-mediated signaling events(N),0.0024,26,1,0.3747,0.3747,IL1B
+Apoptosis signaling pathway(P),0.0024,26,1,0.3747,0.3747,PRKCB
+Metabolism of water-soluble vitamins and cofactors(R),0.0067,73,2,0.3794,0.3794,"NAMPT,PTGS2"
+Signaling by PDGF(R),0.0302,328,7,0.38,0.38,"EREG,HBEGF,SPP1,PLAT,CSF2RB,RASGRP4,THBS1"
+TCR signaling(R),0.0113,123,3,0.3826,0.3826,"PTPRC,LCP2,FYB"
+Signaling by Rho GTPases(R),0.0304,330,7,0.3858,0.3858,"WIPF1,PREX1,RAC2,FLNA,NCF2,NCF4,FMNL1"
+thrombin signaling and protease-activated receptors(B),0.0025,27,1,0.3859,0.3859,PRKCB
+VEGFR1 specific signals(N),0.0025,27,1,0.3859,0.3859,PRKCB
+Binding and Uptake of Ligands by Scavenger Receptors(R),0.0114,124,3,0.3874,0.3874,"SPARC,HBB,HBA1"
+Gastric acid secretion(K),0.0069,75,2,0.3922,0.3922,"PRKCB,HRH2"
+p73 transcription factor network(N),0.0069,75,2,0.3922,0.3922,"PLK3,SERPINA1"
+Lissencephaly gene (LIS1) in neuronal migration and development(N),0.0026,28,1,0.3969,0.3969,PLA2G7
+vegf hypoxia and angiogenesis(B),0.0026,28,1,0.3969,0.3969,PRKCB
+adp-ribosylation factor(B),0.0026,28,1,0.3969,0.3969,NCF2
+ErbB4 signaling events(N),0.0026,28,1,0.3969,0.3969,HBEGF
+Complement cascade(R),0.0117,127,3,0.4019,0.4019,"C3AR1,C5AR1,CR1"
+Nicotinate and nicotinamide metabolism(K),0.0027,29,1,0.4077,0.4077,NAMPT
+Hippo signaling pathway -multiple species(K),0.0027,29,1,0.4077,0.4077,RASSF2
+Regulation of CDC42 activity(N),0.0028,30,1,0.4183,0.4183,DOCK11
+Asthma(K),0.0029,31,1,0.4287,0.4287,FCER1G
+phospholipids as signalling intermediaries(B),0.0029,31,1,0.4287,0.4287,PRKCB
+Antifolate resistance(K),0.0029,31,1,0.4287,0.4287,IL1B
+EGFR tyrosine kinase inhibitor resistance(K),0.0075,81,2,0.4296,0.4296,"PRKCB,PIK3R5"
+FoxO signaling pathway(K),0.0123,134,3,0.4354,0.4354,"PIK3R5,PLK3,SOD2"
+C-MYB transcription factor network(N),0.0075,82,2,0.4357,0.4357,"SPI1,PTGS2"
+rho cell motility signaling pathway(B),0.0029,32,1,0.439,0.439,NCF2
+Syndecan-2-mediated signaling events(N),0.0029,32,1,0.439,0.439,FN1
+Noncanonical Wnt signaling pathway(N),0.0029,32,1,0.439,0.439,FLNA
+Peroxisome(K),0.0076,83,2,0.4418,0.4418,"ACSL1,SOD2"
+Fructose and mannose metabolism(K),0.003,33,1,0.449,0.449,PFKFB3
+Smooth Muscle Contraction(R),0.003,33,1,0.449,0.449,DYSF
+EPO signaling pathway(N),0.003,33,1,0.449,0.449,SOCS3
+CXCR3-mediated signaling events(N),0.0032,35,1,0.4686,0.4686,CXCL13
+Signaling mediated by p38-alpha and p38-beta(N),0.0032,35,1,0.4686,0.4686,PTGS2
+Trk receptor signaling mediated by PI3K and PLC-gamma(N),0.0033,36,1,0.4782,0.4782,EGR1
+Primary immunodeficiency(K),0.0034,37,1,0.4875,0.4875,PTPRC
+rac1 cell motility signaling pathway(B),0.0034,37,1,0.4875,0.4875,NCF2
+ErbB2/ErbB3 signaling events(N),0.0034,37,1,0.4875,0.4875,FOS
+nfat and hypertrophy of the heart (B),0.0034,37,1,0.4875,0.4875,HBEGF
+Morphine addiction(K),0.0084,91,2,0.4892,0.4892,"PRKCB,PDE4B"
+RAF/MAP kinase cascade(R),0.0185,201,4,0.4914,0.4914,"EREG,HBEGF,CSF2RB,RASGRP4"
+FGF signaling pathway(P),0.0085,92,2,0.4949,0.4949,"PRKCB,RAC2"
+GnRH signaling pathway(K),0.0085,92,2,0.4949,0.4949,"PRKCB,HBEGF"
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway(P),0.0135,147,3,0.4955,0.4955,"RGS2,HRH2,RGS18"
+Formation of Fibrin Clot (Clotting Cascade)(R),0.0036,39,1,0.5057,0.5057,THBD
+Longevity regulating pathway(K),0.0087,94,2,0.5063,0.5063,"PIK3R5,SOD2"
+Non-alcoholic fatty liver disease (NAFLD)(K),0.0139,151,3,0.5133,0.5133,"PIK3R5,IL1B,SOCS3"
+IFN-gamma pathway(N),0.0037,40,1,0.5146,0.5146,IL1B
+Oxidative stress response(P),0.0037,40,1,0.5146,0.5146,DUSP1
+FOXM1 transcription factor network(N),0.0037,40,1,0.5146,0.5146,FOS
+Circadian entrainment(K),0.0088,96,2,0.5175,0.5175,"PRKCB,FOS"
+Graft-versus-host disease(K),0.0038,41,1,0.5233,0.5233,IL1B
+mTOR signaling pathway(K),0.0142,154,3,0.5265,0.5265,"PRKCB,PIK3R5,SLC7A5"
+Phosphatidylinositol signaling system(K),0.0091,99,2,0.5339,0.5339,"PRKCB,PIK3R5"
+Type I diabetes mellitus(K),0.004,43,1,0.5403,0.5403,IL1B
+PAR1-mediated thrombin signaling events(N),0.004,43,1,0.5403,0.5403,PRKCB
+"Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds(R)",0.004,43,1,0.5403,0.5403,SLC11A1
+Retrograde endocannabinoid signaling(K),0.0093,101,2,0.5447,0.5447,"PRKCB,PTGS2"
+Fatty acid degradation(K),0.004,44,1,0.5485,0.5485,ACSL1
+p53 pathway(P),0.004,44,1,0.5485,0.5485,THBS1
+ABC transporters(K),0.0041,45,1,0.5566,0.5566,ABCA1
+RhoA signaling pathway(N),0.0041,45,1,0.5566,0.5566,FOS
+Ether lipid metabolism(K),0.0041,45,1,0.5566,0.5566,PLA2G7
+Validated transcriptional targets of deltaNp63 isoforms(N),0.0041,45,1,0.5566,0.5566,KRT14
+Presenilin action in Notch and Wnt signaling(N),0.0041,45,1,0.5566,0.5566,FOS
+Neuroactive ligand-receptor interaction(K),0.0256,278,5,0.5643,0.5643,"C3AR1,FPR1,FPR2,C5AR1,HRH2"
+TNF receptor signaling pathway(N),0.0042,46,1,0.5646,0.5646,TNFRSF1B
+RET signaling(R),0.0204,222,4,0.5693,0.5693,"EREG,HBEGF,CSF2RB,RASGRP4"
+Endocrine and other factor-regulated calcium reabsorption(K),0.0043,47,1,0.5724,0.5724,PRKCB
+Amyloid fiber formation(R),0.0043,47,1,0.5724,0.5724,TGFBI
+Apoptotic execution phase(R),0.0043,47,1,0.5724,0.5724,DSG3
+Th17 cell differentiation(K),0.0098,107,2,0.576,0.576,"FOS,IL1B"
+Fatty acid metabolism(K),0.0044,48,1,0.5801,0.5801,ACSL1
+FoxO family signaling(N),0.0044,48,1,0.5801,0.5801,SOD2
+cGMP-PKG signaling pathway(K),0.0155,168,3,0.5853,0.5853,"PIK3R5,RGS2,PPIF"
+Cocaine addiction(K),0.0045,49,1,0.5876,0.5876,FOSB
+Regulation of Androgen receptor activity(N),0.0045,49,1,0.5876,0.5876,EGR1
+Validated transcriptional targets of TAp63 isoforms(N),0.0045,49,1,0.5876,0.5876,EGR2
+Intestinal immune network for IgA production(K),0.0045,49,1,0.5876,0.5876,CXCR4
+Ras signaling pathway(K),0.0211,229,4,0.5938,0.5938,"PRKCB,PIK3R5,RAC2,RASGRP4"
+Alzheimer disease-presenilin pathway(P),0.0102,111,2,0.5959,0.5959,"MMP25,MMP9"
+PIP3 activates AKT signaling(R),0.0102,111,2,0.5959,0.5959,"EREG,HBEGF"
+Fc epsilon receptor (FCERI) signaling(R),0.0373,405,7,0.5982,0.5982,"EREG,FCER1G,FOS,HBEGF,CSF2RB,RASGRP4,LCP2"
+NCAM signaling for neurite out-growth(R),0.0213,231,4,0.6007,0.6007,"EREG,HBEGF,CSF2RB,RASGRP4"
+Signaling by SCF-KIT(R),0.0267,290,5,0.6018,0.6018,"EREG,HBEGF,CSF2RB,RASGRP4,MMP9"
+Amyotrophic lateral sclerosis (ALS)(K),0.0047,51,1,0.6023,0.6023,TNFRSF1B
+Metabolism of carbohydrates(R),0.0214,233,4,0.6075,0.6075,"CHST11,CHST15,PFKFB3,LUM"
+Senescence-Associated Secretory Phenotype (SASP)(R),0.0048,52,1,0.6094,0.6094,FOS
+Role of Calcineurin-dependent NFAT signaling in lymphocytes(N),0.0048,52,1,0.6094,0.6094,PRKCB
+Endometrial cancer(K),0.0048,52,1,0.6094,0.6094,PIK3R5
+mapkinase signaling pathway(B),0.0049,53,1,0.6164,0.6164,FOS
+RAC1 signaling pathway(N),0.005,54,1,0.6233,0.6233,NCF2
+ER to Golgi Anterograde Transport(R),0.0108,117,2,0.6245,0.6245,"SERPINA1,AREG"
+Thyroid hormone signaling pathway(K),0.0109,118,2,0.6292,0.6292,"PRKCB,PIK3R5"
+Signaling events mediated by HDAC Class I(N),0.0052,56,1,0.6367,0.6367,MXD1
+Calcium signaling pathway(K),0.0167,182,3,0.6393,0.6393,"PRKCB,PPIF,HRH2"
+Huntington disease(P),0.0111,121,2,0.6427,0.6427,"RAC2,FOS"
+Lysosome(K),0.0113,123,2,0.6516,0.6516,"SLC11A1,LAPTM5"
+AMPK signaling pathway(K),0.0114,124,2,0.6559,0.6559,"PIK3R5,PFKFB3"
+Platelet homeostasis(R),0.0054,59,1,0.656,0.656,FGR
+Glycerolipid metabolism(K),0.0054,59,1,0.656,0.656,DGAT2
+PI Metabolism(R),0.0054,59,1,0.656,0.656,PIK3R5
+Alzheimer disease-amyloid secretase pathway(P),0.0054,59,1,0.656,0.656,PRKCB
+Signaling events mediated by focal adhesion kinase(N),0.0055,60,1,0.6622,0.6622,ITGA5
+Long-term depression(K),0.0055,60,1,0.6622,0.6622,PRKCB
+Parkinson disease(P),0.0056,61,1,0.6682,0.6682,HSPA6
+Opioid Signalling(R),0.0057,62,1,0.6742,0.6742,PDE4B
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)(R),0.0235,255,4,0.6773,0.6773,"EREG,HBEGF,CSF2RB,RASGRP4"
+Signaling events mediated by VEGFR1 and VEGFR2(N),0.0058,63,1,0.6801,0.6801,PRKCB
+Ras Pathway(P),0.0058,63,1,0.6801,0.6801,RAC2
+Dopaminergic synapse(K),0.012,130,2,0.6811,0.6811,"PRKCB,FOS"
+"Fatty acid, triacylglycerol, and ketone body metabolism(R)",0.0179,195,3,0.6848,0.6848,"ACSL1,ABCA1,DGAT2"
+Regulation of retinoblastoma protein(N),0.0059,64,1,0.6858,0.6858,SPI1
+Shigellosis(K),0.006,65,1,0.6915,0.6915,ITGA5
+Hepatitis C(K),0.0122,133,2,0.6932,0.6932,"PIK3R5,SOCS3"
+Systemic lupus erythematosus(K),0.0122,133,2,0.6932,0.6932,"FCGR3A,FCGR2A"
+Oxidative Stress Induced Senescence(R),0.0061,66,1,0.697,0.697,FOS
+Mitotic Prophase(R),0.0061,66,1,0.697,0.697,PRKCB
+Activation of anterior HOX genes in hindbrain development during early embryogenesis(R),0.0061,66,1,0.697,0.697,EGR2
+Angiogenesis(P),0.0061,66,1,0.697,0.697,FOS
+Long-term potentiation(K),0.0062,67,1,0.7024,0.7024,PRKCB
+Renal cell carcinoma(K),0.0062,67,1,0.7024,0.7024,PIK3R5
+Cytosolic sensors of pathogen-associated DNA (R),0.0062,67,1,0.7024,0.7024,S100A12
+Viral carcinogenesis(K),0.0187,203,3,0.7107,0.7107,"PIK3R5,EGR2,EGR3"
+p53 signaling pathway(K),0.0063,69,1,0.7131,0.7131,THBS1
+E2F transcription factor network(N),0.0063,69,1,0.7131,0.7131,PLAU
+RNA polymerase II transcribes snRNA genes(R),0.0064,70,1,0.7182,0.7182,NABP1
+Glycerophospholipid biosynthesis(R),0.0064,70,1,0.7182,0.7182,DGAT2
+Cell junction organization(R),0.0064,70,1,0.7182,0.7182,FLNA
+Insulin signaling pathway(K),0.0129,140,2,0.7198,0.7198,"PIK3R5,SOCS3"
+Melanoma(K),0.0065,71,1,0.7233,0.7233,PIK3R5
+Adherens junction(K),0.0066,72,1,0.7283,0.7283,RAC2
+Wnt signaling pathway(K),0.0132,143,2,0.7306,0.7306,"PRKCB,RAC2"
+Signaling by TGF-beta Receptor Complex(R),0.0067,73,1,0.7332,0.7332,JUNB
+Interferon gamma signaling(R),0.0067,73,1,0.7332,0.7332,SOCS3
+Chronic myeloid leukemia(K),0.0067,73,1,0.7332,0.7332,PIK3R5
+Thyroid hormone synthesis(K),0.0068,74,1,0.738,0.738,PRKCB
+Signaling by Insulin receptor(R),0.0255,277,4,0.738,0.738,"EREG,HBEGF,CSF2RB,RASGRP4"
+Breast cancer(K),0.0134,146,2,0.7411,0.7411,"PIK3R5,FOS"
+O-linked glycosylation(R),0.0069,75,1,0.7427,0.7427,THBS1
+Platinum drug resistance(K),0.0069,75,1,0.7427,0.7427,PIK3R5
+Validated targets of C-MYC transcriptional activation(N),0.0069,75,1,0.7427,0.7427,MMP9
+Phase 1 - Functionalization of compounds(R),0.007,76,1,0.7473,0.7473,TBXAS1
+Antigen processing and presentation(K),0.0071,77,1,0.7519,0.7519,HSPA6
+RNA degradation(K),0.0071,77,1,0.7519,0.7519,BTG2
+RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways(R),0.0071,77,1,0.7519,0.7519,S100A12
+Regulation of nuclear SMAD2/3 signaling(N),0.0071,77,1,0.7519,0.7519,FOS
+Cellular response to heat stress(R),0.0072,78,1,0.7563,0.7563,HSPB8
+TGF-beta signaling pathway(P),0.0074,80,1,0.765,0.765,JUNB
+Regulation of nuclear beta catenin signaling and target gene transcription(N),0.0074,80,1,0.765,0.765,MMP9
+Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)(N),0.0074,80,1,0.765,0.765,EGR1
+Hippo signaling pathway(K),0.0142,154,2,0.7673,0.7673,"AREG,ITGB2"
+Chemical carcinogenesis(K),0.0075,82,1,0.7734,0.7734,PTGS2
+Aldosterone synthesis and secretion(K),0.0075,82,1,0.7734,0.7734,PRKCB
+L1CAM interactions(R),0.0075,82,1,0.7734,0.7734,ITGA5
+Hypertrophic cardiomyopathy (HCM)(K),0.0076,83,1,0.7775,0.7775,ITGA5
+TGF-beta signaling pathway(K),0.0077,84,1,0.7815,0.7815,THBS1
+Transcriptional regulation of white adipocyte differentiation(R),0.0077,84,1,0.7815,0.7815,EGR2
+Insulin secretion(K),0.0078,85,1,0.7854,0.7854,PRKCB
+Regulation of mRNA stability by proteins that bind AU-rich elements(R),0.008,87,1,0.7931,0.7931,ZFP36
+GABAergic synapse(K),0.0081,88,1,0.7968,0.7968,PRKCB
+Gap junction(K),0.0081,88,1,0.7968,0.7968,PRKCB
+Prostate cancer(K),0.0082,89,1,0.8005,0.8005,PIK3R5
+EPH-Ephrin signaling(R),0.0082,89,1,0.8005,0.8005,MMP9
+Dilated cardiomyopathy(K),0.0083,90,1,0.8041,0.8041,ITGA5
+Protein digestion and absorption(K),0.0083,90,1,0.8041,0.8041,MME
+Salivary secretion(K),0.0083,90,1,0.8041,0.8041,PRKCB
+"Lipid digestion, mobilization, and transport(R)",0.0084,91,1,0.8076,0.8076,ABCA1
+Th1 and Th2 cell differentiation(K),0.0085,92,1,0.8111,0.8111,FOS
+Alzheimer's disease(K),0.0157,171,2,0.8154,0.8154,"MME,IL1B"
+Pancreatic secretion(K),0.0088,96,1,0.8243,0.8243,PRKCB
+Signaling by EGFR(R),0.0292,317,4,0.8259,0.8259,"EREG,HBEGF,CSF2RB,RASGRP4"
+Progesterone-mediated oocyte maturation(K),0.009,98,1,0.8306,0.8306,PIK3R5
+TNFR2 non-canonical NF-kB pathway(R),0.0093,101,1,0.8396,0.8396,TNFRSF1B
+Melanogenesis(K),0.0093,101,1,0.8396,0.8396,PRKCB
+Huntington's disease(K),0.0178,193,2,0.8645,0.8645,"PPIF,SOD2"
+Signaling by the B Cell Receptor (BCR)(R),0.0248,270,3,0.8672,0.8672,"PRKCB,EREG,HBEGF"
+Glutamatergic synapse(K),0.0105,114,1,0.8734,0.8734,PRKCB
+Signalling by NGF(R),0.0387,421,5,0.8795,0.8795,"PREX1,EREG,HBEGF,CSF2RB,RASGRP4"
+Generic Transcription Pathway(R),0.0455,494,6,0.8844,0.8844,"JUNB,PLK3,BTG2,FOS,TNFRSF10C,NR4A3"
+Neurotrophin signaling pathway(K),0.0111,121,1,0.8886,0.8886,PIK3R5
+Vascular smooth muscle contraction(K),0.0111,121,1,0.8886,0.8886,PRKCB
+Asparagine N-linked glycosylation(R),0.0202,219,2,0.907,0.907,"SERPINA1,AREG"
+Neurotransmitter Receptor Binding And Downstream Transmission In The Postsynaptic Cell(R),0.0123,134,1,0.9121,0.9121,PRKCB
+Spliceosome(K),0.0123,134,1,0.9121,0.9121,HSPA6
+Tight junction(K),0.0126,137,1,0.9168,0.9168,PRKCB
+Ubiquitin mediated proteolysis(K),0.0126,137,1,0.9168,0.9168,SOCS3
+Intra-Golgi and retrograde Golgi-to-ER traffic(R),0.013,141,1,0.9227,0.9227,CYTH4
+Parkinson's disease(K),0.0131,142,1,0.9241,0.9241,PPIF
+Signaling pathways regulating pluripotency of stem cells(K),0.0131,142,1,0.9241,0.9241,PIK3R5
+Adrenergic signaling in cardiomyocytes(K),0.0137,149,1,0.9332,0.9332,PIK3R5
+Protein processing in endoplasmic reticulum(K),0.0152,165,1,0.9502,0.9502,HSPA6
+Ion channel transport(R),0.0156,169,1,0.9537,0.9537,BEST1
+Purine metabolism(K),0.0161,175,1,0.9585,0.9585,PDE4B
+Alcoholism(K),0.0166,180,1,0.9621,0.9621,FOSB
+Deubiquitination(R),0.0208,226,1,0.9837,0.9837,NLRP3
+Wnt signaling pathway(P),0.0247,268,1,0.9925,0.9925,PRKCB
+Olfactory transduction(K),0.0385,418,2,0.9959,0.9959,"OR2J3,RGS2"
+Metabolic pathways(K),0.1165,1266,7,1,1,"NAMPT,ACSL1,PLA2G7,PTGS2,ALOX5,DGAT2,TBXAS1"
