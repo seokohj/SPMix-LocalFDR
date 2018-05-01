@@ -12,7 +12,7 @@ output:
 
 ```{r}
 #load("Study2.RData")
-#source("../../SpMix.R")
+#source("../SpMix.R")
 ```
 
 * Data 
