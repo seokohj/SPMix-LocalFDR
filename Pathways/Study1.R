@@ -1,4 +1,4 @@
-source("../../SpMix.R")
+source("../SpMix.R")
 
 z1 <- read.csv("L.csv")
 z2 <- read.csv("O.csv")
