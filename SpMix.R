@@ -1,5 +1,4 @@
-normal.mixture <- function(z, tol = 5e-3, max.iter = 5)
-  # For a preliminary fit
+normal.mixture <- function(z, tol = 5e-3, max.iter = 50)
 {
   library(mvtnorm)
   
@@ -51,7 +50,7 @@ normal.mixture <- function(z, tol = 5e-3, max.iter = 5)
 }
 
 
-sp.mix.multi <- function(z, tol = 5e-6, max.iter = 30, mono = TRUE)
+sp.mix.multi <- function(z, tol = 5e-4, max.iter = 30, mono = TRUE)
   # FOR MULTIVARIATE CASE ONLY
 {
   library(LogConcDEAD)
@@ -110,6 +109,7 @@ sp.mix.multi <- function(z, tol = 5e-6, max.iter = 30, mono = TRUE)
 sp.mix.1D <- function(z, tol = 5.0e-6, max.iter = 10, doplot = TRUE, thre.localFDR = 0.2)
 {
   library(LogConcDEAD)
+  #library(fmlogcondens)
   
   z <- as.numeric(z)
   n <- length(z)
@@ -146,6 +146,10 @@ sp.mix.1D <- function(z, tol = 5.0e-6, max.iter = 10, doplot = TRUE, thre.localF
     weight <- 1 - new.gam[which.z]
     weight <- weight/sum(weight)
     new.f1.tilde[which.z] <- exp(mlelcd(z[which.z], w = weight)$logMLE)
+    #new.f1.tilde[which.z] <- exp(fmlcd(matrix(z[which.z], 
+    #                                          nrow = length(weight), 
+    #                                          ncol = 1), 
+    #                                   w = weight[which.z]/sum(weight[which.z]))$logMLE)
     
     which.gam <- (new.gam <= 0.9)*(new.gam >= 0.01)
     diff <- max(abs(gam - new.gam)[which.gam])
