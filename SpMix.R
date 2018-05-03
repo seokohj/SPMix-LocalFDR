@@ -50,7 +50,7 @@ normal.mixture <- function(z, tol = 5e-3, max.iter = 50)
 }
 
 
-sp.mix.multi <- function(z, tol = 5e-4, max.iter = 30, mono = TRUE)
+sp.mix.multi <- function(z, tol = 5e-6, max.iter = 30, mono = TRUE)
   # FOR MULTIVARIATE CASE ONLY
 {
   library(LogConcDEAD)
@@ -106,7 +106,7 @@ sp.mix.multi <- function(z, tol = 5e-4, max.iter = 30, mono = TRUE)
   return(res)
 }
 
-sp.mix.1D <- function(z, tol = 5.0e-6, max.iter = 10, doplot = TRUE, thre.localFDR = 0.2)
+sp.mix.1D <- function(z, tol = 5.0e-6, max.iter = 30, doplot = TRUE, thre.localFDR = 0.2)
 {
   library(LogConcDEAD)
   #library(fmlogcondens)
