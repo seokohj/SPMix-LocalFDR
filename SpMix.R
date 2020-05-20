@@ -1,4 +1,4 @@
-normal.mixture <- function(z, tol = 5e-3, max.iter = 50)
+normal.mixture <- function(z, tol = 5e-3, max.iter = 10)
 {
   library(mvtnorm)
   
@@ -26,12 +26,12 @@ normal.mixture <- function(z, tol = 5e-3, max.iter = 50)
     ## M-step
     new.p.0 <- mean(gam)
     new.mu.0 <- as.vector(t(z)%*%gam)/sum(gam)
-    dev <- (z-new.mu.0)*sqrt(gam)
+    dev <- (z - new.mu.0)*sqrt(gam)
     new.sig.0 <- t(dev)%*%dev/sum(gam)
     f.0 <- dmvnorm(z, mean = new.mu.0, sigma = new.sig.0)
-    new.mu.1 <- as.vector(t(z)%*%(1-gam))/sum(1-gam)
-    dev <- (z-new.mu.1)*sqrt(1-gam)
-    new.sig.1 <- t(dev)%*%dev/sum(1-gam)
+    new.mu.1 <- as.vector(t(z)%*%(1 - gam))/sum(1 - gam)
+    dev <- (z - new.mu.1)*sqrt(1 - gam)
+    new.sig.1 <- t(dev)%*%dev/sum(1 - gam)
     f.1 <- dmvnorm(z, mean = new.mu.1, sigma = new.sig.1)
     
     ## Update
@@ -142,7 +142,7 @@ sp.mix.1D <- function(z, tol = 5.0e-6, max.iter = 30, doplot = TRUE, thre.localF
     new.p.0 <- mean(new.gam, na.rm = TRUE)
     
     new.f1.tilde <- rep(0, n)
-    which.z <- new.gam <= .95
+    which.z <- new.gam <= .9
     weight <- 1 - new.gam[which.z]
     weight <- weight/sum(weight)
     new.f1.tilde[which.z] <- exp(mlelcd(z[which.z], w = weight)$logMLE)
